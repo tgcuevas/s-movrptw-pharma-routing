@@ -1,0 +1,48 @@
+{
+  "script": "recompute_vss_tests.py",
+  "proposito": "P8: test pareado por escenario del estadistico del VSS de s4 (EEV vs media de mejores por objetivo, columnas f*_best) para H1/H2, Tabla 6.1",
+  "s4_dir": "/home/user/Descargas/t_1_0/data/integration/20260615_205516_s4",
+  "fecha_ejecucion": "2026-09-08T21:11:05",
+  "tests": "Wilcoxon pareado (mediana) + permutacion pareada de signos sobre la MEDIA de las diferencias (el estadistico que define el VSS); ambos unilaterales EEV > RP",
+  "resultados": {
+    "f1": {
+      "K": 20,
+      "media_diferencia_EEV_menos_RP": 4902.623500000003,
+      "p_permutacion_media_EEV_mayor_que_RP": 9.5367431640625e-07,
+      "significativo_perm_0_05": true,
+      "mediana_EEV": 39138.3,
+      "mediana_RP": 34241.395000000004,
+      "mediana_diferencia": 4896.9050000000025,
+      "n_escenarios_EEV_mayor": 20,
+      "W": 210.0,
+      "p_unilateral_EEV_mayor_que_RP": 9.5367431640625e-07,
+      "significativo_0_05": true
+    },
+    "f2": {
+      "K": 20,
+      "media_diferencia_EEV_menos_RP": 122303352.08749995,
+      "p_permutacion_media_EEV_mayor_que_RP": 9.5367431640625e-07,
+      "significativo_perm_0_05": true,
+      "mediana_EEV": 821977967.18,
+      "mediana_RP": 723987932.595,
+      "mediana_diferencia": 97990034.58499992,
+      "n_escenarios_EEV_mayor": 20,
+      "W": 210.0,
+      "p_unilateral_EEV_mayor_que_RP": 9.5367431640625e-07,
+      "significativo_0_05": true
+    },
+    "f3": {
+      "K": 20,
+      "media_diferencia_EEV_menos_RP": 158.28393999999997,
+      "p_permutacion_media_EEV_mayor_que_RP": 9.5367431640625e-07,
+      "significativo_perm_0_05": true,
+      "mediana_EEV": 1584.39945,
+      "mediana_RP": 1411.61825,
+      "mediana_diferencia": 114.22149999999999,
+      "n_escenarios_EEV_mayor": 20,
+      "W": 210.0,
+      "p_unilateral_EEV_mayor_que_RP": 9.5367431640625e-07,
+      "significativo_0_05": true
+    }
+  }
+}

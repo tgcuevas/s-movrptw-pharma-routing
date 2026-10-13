@@ -1,0 +1,257 @@
+{
+  "script": "recompute_eev_recurso.py",
+  "fecha_ejecucion": "2026-09-24T21:58:59",
+  "run_s4": "20260615_201043_s4",
+  "run_s3": "20260615_200957",
+  "n_farmacias": 25,
+  "K": 20,
+  "verificacion": "frente EV reproducido idéntico a s4_ev_pareto.csv",
+  "recurso": "un viaje de vuelta al depósito (PENALTY_EXTRA_TRIP s) por cada ruta EV cuya carga en el escenario supera Q",
+  "plan_EV": {
+    "n_rutas": 2,
+    "carga_media_por_ruta_kg": [
+      194.8,
+      108.8
+    ],
+    "f1_s": 17497.06
+  },
+  "viajes_extra": {
+    "codigo_original": 20,
+    "escenarios_codigo_original": 20,
+    "recurso_por_ruta": 6,
+    "escenarios_recurso_por_ruta": 6
+  },
+  "EEV_original": {
+    "f1": 19297.06,
+    "f2": 271027618.9,
+    "f3": 695.118
+  },
+  "EEV_corregido": {
+    "f1": 18037.06,
+    "f2": 271027618.9,
+    "f3": 695.118
+  },
+  "RP": {
+    "f1": 16899.43,
+    "f2": 225698450.56,
+    "f3": 641.4636
+  },
+  "VSS_pct_original": {
+    "f1": 12.42,
+    "f2": 16.72,
+    "f3": 7.72
+  },
+  "VSS_pct_corregido": {
+    "f1": 6.31,
+    "f2": 16.72,
+    "f3": 7.72
+  },
+  "test_H1_f1_corregido": {
+    "n_escenarios_EEV_mayor": 20,
+    "media_diferencia_s": 1137.63,
+    "p_wilcoxon_unilateral": 9.5367431640625e-07,
+    "p_permutacion_media": 9.5367431640625e-07
+  },
+  "escenarios": [
+    {
+      "scenario_id": 0,
+      "demanda_total_kg": 327.07,
+      "carga_por_ruta_kg": [
+        230.4,
+        96.7
+      ],
+      "viajes_extra": 1,
+      "f1_eev_corregido": 19297.06
+    },
+    {
+      "scenario_id": 1,
+      "demanda_total_kg": 334.61,
+      "carga_por_ruta_kg": [
+        199.5,
+        135.1
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 2,
+      "demanda_total_kg": 291.25,
+      "carga_por_ruta_kg": [
+        185.1,
+        106.1
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 3,
+      "demanda_total_kg": 267.43,
+      "carga_por_ruta_kg": [
+        169.4,
+        98.0
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 4,
+      "demanda_total_kg": 295.29,
+      "carga_por_ruta_kg": [
+        179.8,
+        115.4
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 5,
+      "demanda_total_kg": 322.24,
+      "carga_por_ruta_kg": [
+        204.5,
+        117.7
+      ],
+      "viajes_extra": 1,
+      "f1_eev_corregido": 19297.06
+    },
+    {
+      "scenario_id": 6,
+      "demanda_total_kg": 273.97,
+      "carga_por_ruta_kg": [
+        145.9,
+        128.1
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 7,
+      "demanda_total_kg": 310.04,
+      "carga_por_ruta_kg": [
+        180.1,
+        130.0
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 8,
+      "demanda_total_kg": 284.39,
+      "carga_por_ruta_kg": [
+        177.2,
+        107.1
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 9,
+      "demanda_total_kg": 290.37,
+      "carga_por_ruta_kg": [
+        185.2,
+        105.1
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 10,
+      "demanda_total_kg": 332.51,
+      "carga_por_ruta_kg": [
+        228.6,
+        103.9
+      ],
+      "viajes_extra": 1,
+      "f1_eev_corregido": 19297.06
+    },
+    {
+      "scenario_id": 11,
+      "demanda_total_kg": 285.72,
+      "carga_por_ruta_kg": [
+        147.5,
+        138.2
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 12,
+      "demanda_total_kg": 378.3,
+      "carga_por_ruta_kg": [
+        272.8,
+        105.5
+      ],
+      "viajes_extra": 1,
+      "f1_eev_corregido": 19297.06
+    },
+    {
+      "scenario_id": 13,
+      "demanda_total_kg": 307.99,
+      "carga_por_ruta_kg": [
+        197.8,
+        110.2
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 14,
+      "demanda_total_kg": 357.42,
+      "carga_por_ruta_kg": [
+        222.4,
+        135.0
+      ],
+      "viajes_extra": 1,
+      "f1_eev_corregido": 19297.06
+    },
+    {
+      "scenario_id": 15,
+      "demanda_total_kg": 348.34,
+      "carga_por_ruta_kg": [
+        227.0,
+        121.4
+      ],
+      "viajes_extra": 1,
+      "f1_eev_corregido": 19297.06
+    },
+    {
+      "scenario_id": 16,
+      "demanda_total_kg": 279.79,
+      "carga_por_ruta_kg": [
+        166.6,
+        113.2
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 17,
+      "demanda_total_kg": 286.23,
+      "carga_por_ruta_kg": [
+        199.9,
+        86.3
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 18,
+      "demanda_total_kg": 307.5,
+      "carga_por_ruta_kg": [
+        196.9,
+        110.6
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    },
+    {
+      "scenario_id": 19,
+      "demanda_total_kg": 280.34,
+      "carga_por_ruta_kg": [
+        169.1,
+        111.2
+      ],
+      "viajes_extra": 0,
+      "f1_eev_corregido": 17497.06
+    }
+  ]
+}

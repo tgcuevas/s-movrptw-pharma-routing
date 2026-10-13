@@ -1,0 +1,33 @@
+{
+  "script": "recompute_forecast_eval.py",
+  "run_s3": "20260615_200957",
+  "n_farmacias": 25,
+  "dia_previsto": "2024-12-18",
+  "realizaciones": 10000,
+  "seed_realizaciones": 42,
+  "historico_regenerado_identico": true,
+  "cobertura_Q10_Q90_frente_a_demanda_verdadera_pct": {
+    "BiLSTM": 84.4,
+    "ensemble": 80.5,
+    "nominal": 80.0
+  },
+  "rmse_frente_a_realizaciones_kg": {
+    "naive_t7": 9.609,
+    "BiLSTM": 7.518,
+    "XGBoost": 7.795,
+    "ensemble": 7.529
+  },
+  "skill_frente_a_naive_realizaciones_pct": {
+    "BiLSTM": 21.8,
+    "XGBoost": 18.9,
+    "ensemble": 21.7
+  },
+  "rmse_frente_a_media_verdadera_kg": {
+    "naive_t7": 6.064,
+    "BiLSTM": 0.988,
+    "XGBoost": 2.289,
+    "ensemble": 1.071
+  },
+  "metrica_s3_banda_ensanchada_pct": 97.0,
+  "nota": "El plan determinista y los escenarios SAA de s4 usan la media y la desviación del BiLSTM; XGBoost y el ensemble se evalúan pero no alimentan la optimización. La métrica de s3 mide la cobertura de una banda ensanchada ±σ_hist sobre días del histórico, no la de [Q10, Q90]."
+}
