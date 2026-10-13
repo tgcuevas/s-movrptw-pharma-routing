@@ -1,0 +1,12 @@
+Dimensión,N=25,N=50
+BiLSTM NLL val. loss,0.5444,0.5739
+"Cobertura [Q10,Q90] (%)",97.0%,96.0%
+HV CV (%),9.3%,10.5%
+HV NSGA-II (media ± σ),1.671e+14 ± 1.555e+13,1.118e+15 ± 1.175e+14
+IGD NSGA-II (media),5.961e+06,1.556e+07
+K escenarios SAA,20,20
+Skill BiLSTM vs Naive (%),38.7%,36.2%
+VSS f₁ — Tiempo ruta (%),12.4%,12.5%
+VSS f₂ — Tardanza ponderada (%),16.7%,14.9%
+VSS f₃ — CO₂ (%),7.7%,10.1%
+f₁ compromiso EV (h),4.86,9.87

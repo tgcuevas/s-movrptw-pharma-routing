@@ -1,0 +1,228 @@
+{
+  "C101-25": {
+    "hv": {
+      "friedman_stat": 31.2,
+      "friedman_p": 0.0,
+      "significant": true,
+      "posthoc_nemenyi": {
+        "NSGA-II": {
+          "NSGA-II": 1.0,
+          "NSGA-III": 0.268,
+          "MOEA/D": 0.0
+        },
+        "NSGA-III": {
+          "NSGA-II": 0.268,
+          "NSGA-III": 1.0,
+          "MOEA/D": 0.0003
+        },
+        "MOEA/D": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0003,
+          "MOEA/D": 1.0
+        }
+      },
+      "posthoc_method": "nemenyi",
+      "stats": {
+        "NSGA-II": {
+          "mean": 8.988315093880474e+16,
+          "std": 1.0229921790921656e+16
+        },
+        "NSGA-III": {
+          "mean": 8.086085587951642e+16,
+          "std": 8451894026224552.0
+        },
+        "MOEA/D": {
+          "mean": 5.2784492119622744e+16,
+          "std": 2.1083494896343228e+16
+        }
+      }
+    },
+    "igd": {
+      "friedman_stat": 40.0667,
+      "friedman_p": 0.0,
+      "significant": true,
+      "posthoc_nemenyi": {
+        "NSGA-II": {
+          "NSGA-II": 1.0,
+          "NSGA-III": 0.0023,
+          "MOEA/D": 0.0
+        },
+        "NSGA-III": {
+          "NSGA-II": 0.0023,
+          "NSGA-III": 1.0,
+          "MOEA/D": 0.0084
+        },
+        "MOEA/D": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0084,
+          "MOEA/D": 1.0
+        }
+      },
+      "posthoc_method": "nemenyi",
+      "stats": {
+        "NSGA-II": {
+          "mean": 137526534.126,
+          "std": 51573560.8543
+        },
+        "NSGA-III": {
+          "mean": 200164397.8657,
+          "std": 58134691.5672
+        },
+        "MOEA/D": {
+          "mean": 247284308.7308,
+          "std": 20771580.2697
+        }
+      }
+    },
+    "spacing": {
+      "friedman_stat": 50.4,
+      "friedman_p": 0.0,
+      "significant": true,
+      "posthoc_nemenyi": {
+        "NSGA-II": {
+          "NSGA-II": 1.0,
+          "NSGA-III": 0.0526,
+          "MOEA/D": 0.0
+        },
+        "NSGA-III": {
+          "NSGA-II": 0.0526,
+          "NSGA-III": 1.0,
+          "MOEA/D": 0.0
+        },
+        "MOEA/D": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0,
+          "MOEA/D": 1.0
+        }
+      },
+      "posthoc_method": "nemenyi",
+      "stats": {
+        "NSGA-II": {
+          "mean": 30267213.7365,
+          "std": 20073956.7681
+        },
+        "NSGA-III": {
+          "mean": 69997825.6218,
+          "std": 50387177.8367
+        },
+        "MOEA/D": {
+          "mean": 108645.1637,
+          "std": 248014.5722
+        }
+      }
+    }
+  },
+  "R101-25": {
+    "hv": {
+      "friedman_stat": 22.2,
+      "friedman_p": 1.5e-05,
+      "significant": true,
+      "posthoc_nemenyi": {
+        "NSGA-II": {
+          "NSGA-II": 1.0,
+          "NSGA-III": 0.9207,
+          "MOEA/D": 0.0003
+        },
+        "NSGA-III": {
+          "NSGA-II": 0.9207,
+          "NSGA-III": 1.0,
+          "MOEA/D": 0.0001
+        },
+        "MOEA/D": {
+          "NSGA-II": 0.0003,
+          "NSGA-III": 0.0001,
+          "MOEA/D": 1.0
+        }
+      },
+      "posthoc_method": "nemenyi",
+      "stats": {
+        "NSGA-II": {
+          "mean": 3.125989996600675e+17,
+          "std": 4.370724520581628e+16
+        },
+        "NSGA-III": {
+          "mean": 3.170991219627964e+17,
+          "std": 4.4551868919933256e+16
+        },
+        "MOEA/D": {
+          "mean": 2.137915111842687e+17,
+          "std": 8.684626600497194e+16
+        }
+      }
+    },
+    "igd": {
+      "friedman_stat": 29.6,
+      "friedman_p": 0.0,
+      "significant": true,
+      "posthoc_nemenyi": {
+        "NSGA-II": {
+          "NSGA-II": 1.0,
+          "NSGA-III": 0.0526,
+          "MOEA/D": 0.0
+        },
+        "NSGA-III": {
+          "NSGA-II": 0.0526,
+          "NSGA-III": 1.0,
+          "MOEA/D": 0.0055
+        },
+        "MOEA/D": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0055,
+          "MOEA/D": 1.0
+        }
+      },
+      "posthoc_method": "nemenyi",
+      "stats": {
+        "NSGA-II": {
+          "mean": 214203952.5509,
+          "std": 72447486.4414
+        },
+        "NSGA-III": {
+          "mean": 285789193.0313,
+          "std": 66532438.732
+        },
+        "MOEA/D": {
+          "mean": 341191362.4183,
+          "std": 24730200.7127
+        }
+      }
+    },
+    "spacing": {
+      "friedman_stat": 46.9412,
+      "friedman_p": 0.0,
+      "significant": true,
+      "posthoc_nemenyi": {
+        "NSGA-II": {
+          "NSGA-II": 1.0,
+          "NSGA-III": 0.1893,
+          "MOEA/D": 0.0
+        },
+        "NSGA-III": {
+          "NSGA-II": 0.1893,
+          "NSGA-III": 1.0,
+          "MOEA/D": 0.0
+        },
+        "MOEA/D": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0,
+          "MOEA/D": 1.0
+        }
+      },
+      "posthoc_method": "nemenyi",
+      "stats": {
+        "NSGA-II": {
+          "mean": 61098157.0036,
+          "std": 50604677.0533
+        },
+        "NSGA-III": {
+          "mean": 127474776.4963,
+          "std": 89599540.9023
+        },
+        "MOEA/D": {
+          "mean": 547150.6339,
+          "std": 1420603.0904
+        }
+      }
+    }
+  }
+}

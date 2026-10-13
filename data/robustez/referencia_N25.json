@@ -1,0 +1,286 @@
+{
+  "dentro": {
+    "E1": {
+      "vss_pct": 17.741,
+      "ic95_pct": [
+        17.323,
+        18.159
+      ],
+      "favorables_pct": 100.0
+    },
+    "E2": {
+      "vss_pct": 17.8,
+      "ic95_pct": [
+        17.479,
+        18.121
+      ],
+      "favorables_pct": 100.0
+    },
+    "E3": {
+      "vss_pct": 4.897,
+      "ic95_pct": [
+        2.525,
+        7.269
+      ],
+      "favorables_pct": 95.0
+    },
+    "E4": {
+      "vss_pct": -0.96,
+      "ic95_pct": [
+        -2.723,
+        0.802
+      ],
+      "favorables_pct": 30.0
+    }
+  },
+  "oos_modelo": {
+    "E1": {
+      "vss_pct": 17.644,
+      "ic95_pct": [
+        17.6,
+        17.688
+      ],
+      "favorables_pct": 100.0
+    },
+    "E2": {
+      "vss_pct": 17.821,
+      "ic95_pct": [
+        17.771,
+        17.871
+      ],
+      "favorables_pct": 100.0
+    },
+    "E3": {
+      "vss_pct": 4.292,
+      "ic95_pct": [
+        3.969,
+        4.616
+      ],
+      "favorables_pct": 94.2
+    },
+    "E4": {
+      "vss_pct": -0.521,
+      "ic95_pct": [
+        -0.767,
+        -0.275
+      ],
+      "favorables_pct": 36.6
+    }
+  },
+  "oos_real": {
+    "E1": {
+      "vss_pct": 17.607,
+      "ic95_pct": [
+        17.556,
+        17.658
+      ],
+      "favorables_pct": 100.0
+    },
+    "E2": {
+      "vss_pct": 17.806,
+      "ic95_pct": [
+        17.734,
+        17.878
+      ],
+      "favorables_pct": 100.0
+    },
+    "E3": {
+      "vss_pct": 4.141,
+      "ic95_pct": [
+        3.812,
+        4.47
+      ],
+      "favorables_pct": 93.1
+    },
+    "E4": {
+      "vss_pct": -0.695,
+      "ic95_pct": [
+        -0.937,
+        -0.452
+      ],
+      "favorables_pct": 34.1
+    }
+  },
+  "modelo_M": {
+    "dentro": {
+      "E1": {
+        "vss_pct": 17.261,
+        "ic95_pct": [
+          17.261,
+          17.261
+        ],
+        "favorables_pct": 100.0
+      },
+      "E2": {
+        "vss_pct": 17.448,
+        "ic95_pct": [
+          17.448,
+          17.448
+        ],
+        "favorables_pct": 100.0
+      },
+      "E3": {
+        "vss_pct": 4.97,
+        "ic95_pct": [
+          2.402,
+          7.539
+        ],
+        "favorables_pct": 95.0
+      },
+      "E4": {
+        "vss_pct": -0.606,
+        "ic95_pct": [
+          -2.591,
+          1.378
+        ],
+        "favorables_pct": 30.0
+      }
+    },
+    "oos_modelo": {
+      "E1": {
+        "vss_pct": 17.261,
+        "ic95_pct": [
+          17.261,
+          17.261
+        ],
+        "favorables_pct": 100.0
+      },
+      "E2": {
+        "vss_pct": 17.448,
+        "ic95_pct": [
+          17.448,
+          17.448
+        ],
+        "favorables_pct": 100.0
+      },
+      "E3": {
+        "vss_pct": 4.377,
+        "ic95_pct": [
+          4.034,
+          4.72
+        ],
+        "favorables_pct": 94.6
+      },
+      "E4": {
+        "vss_pct": 0.029,
+        "ic95_pct": [
+          -0.256,
+          0.315
+        ],
+        "favorables_pct": 36.6
+      }
+    },
+    "oos_real": {
+      "E1": {
+        "vss_pct": 17.261,
+        "ic95_pct": [
+          17.261,
+          17.261
+        ],
+        "favorables_pct": 100.0
+      },
+      "E2": {
+        "vss_pct": 17.448,
+        "ic95_pct": [
+          17.448,
+          17.448
+        ],
+        "favorables_pct": 100.0
+      },
+      "E3": {
+        "vss_pct": 4.211,
+        "ic95_pct": [
+          3.863,
+          4.56
+        ],
+        "favorables_pct": 93.7
+      },
+      "E4": {
+        "vss_pct": -0.219,
+        "ic95_pct": [
+          -0.501,
+          0.063
+        ],
+        "favorables_pct": 34.1
+      }
+    }
+  },
+  "reglas_compromiso": {
+    "dentro": {
+      "x̄ de la memoria": {
+        "f1": -4.446,
+        "f2": 25.351,
+        "f3": 19.226
+      },
+      "TOPSIS": {
+        "f1": -0.96,
+        "f2": 17.8,
+        "f3": 21.254
+      },
+      "suma ponderada": {
+        "f1": -4.446,
+        "f2": 25.351,
+        "f3": 19.226
+      },
+      "punto de codo": {
+        "f1": -3.832,
+        "f2": 20.143,
+        "f3": 20.038
+      }
+    },
+    "oos_modelo": {
+      "x̄ de la memoria": {
+        "f1": -3.324,
+        "f2": 25.327,
+        "f3": 20.538
+      },
+      "TOPSIS": {
+        "f1": -0.521,
+        "f2": 17.821,
+        "f3": 21.935
+      },
+      "suma ponderada": {
+        "f1": -3.324,
+        "f2": 25.327,
+        "f3": 20.538
+      },
+      "punto de codo": {
+        "f1": -2.72,
+        "f2": 20.073,
+        "f3": 21.238
+      }
+    },
+    "oos_real": {
+      "x̄ de la memoria": {
+        "f1": -3.062,
+        "f2": 25.656,
+        "f3": 20.797
+      },
+      "TOPSIS": {
+        "f1": -0.695,
+        "f2": 17.806,
+        "f3": 21.663
+      },
+      "suma ponderada": {
+        "f1": -3.062,
+        "f2": 25.656,
+        "f3": 20.797
+      },
+      "punto de codo": {
+        "f1": -2.49,
+        "f2": 20.327,
+        "f3": 21.47
+      }
+    }
+  },
+  "n": 25,
+  "run_s4": "20260615_201043_s4",
+  "fecha_dia_previsto": "2024-12-18",
+  "planes_ev": 19,
+  "planes_saa": 538,
+  "demanda_media_total_kg": {
+    "dentro": 308.04,
+    "oos_modelo": 305.1,
+    "oos_real": 310.74
+  }
+}

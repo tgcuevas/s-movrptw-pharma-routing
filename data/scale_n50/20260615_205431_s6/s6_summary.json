@@ -1,0 +1,22 @@
+{
+  "run_id": "20260615_205431_s6",
+  "run_id_s3_n50": "20260615_205432",
+  "run_id_s4_n50": "20260615_205516_s4",
+  "quick": false,
+  "t_total_s": 166.3,
+  "n50": {
+    "skill_bilstm": 36.25,
+    "coverage": 96.0,
+    "vss_f1_pct": 12.53,
+    "vss_f2_pct": 14.88,
+    "vss_f3_pct": 10.05,
+    "hv_mean": 1118197145601588.6,
+    "hv_cv_pct": 10.690819099249492
+  },
+  "n25_reference": {
+    "vss_f1_pct": 11.4,
+    "vss_f2_pct": 16.8,
+    "vss_f3_pct": 4.6
+  },
+  "wilcoxon_hv_n25_vs_n50": 0.0
+}

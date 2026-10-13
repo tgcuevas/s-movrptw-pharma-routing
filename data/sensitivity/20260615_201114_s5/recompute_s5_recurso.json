@@ -1,0 +1,78 @@
+{
+  "script": "recompute_s5_recurso.py",
+  "fecha_ejecucion": "2026-09-24T21:59:09",
+  "run_s5": "20260615_201114_s5",
+  "recurso": "un viaje de vuelta al depósito (PENALTY_TRIP s) por cada ruta EV cuya carga en el escenario supera Q",
+  "modulo_C": {
+    "verificacion": "modo original idéntico a s5_mod_c_vsshv.csv",
+    "rutas_EV": 2,
+    "viajes_extra": {
+      "original": 580,
+      "ruta": 74,
+      "evaluaciones": 580
+    },
+    "K_convergencia_original": 8,
+    "K_convergencia_corregido": 25,
+    "K_convergencia_corregido_CV_exacto": 8,
+    "K_con_CV_menor_10_corregido": [
+      8,
+      25
+    ]
+  },
+  "modulo_D": {
+    "verificacion": "modo original idéntico a s5_mod_d_evpi.json (f1)",
+    "original": {
+      "EEV_f1": 19028.995413199307,
+      "viajes_extra": 20,
+      "escenarios_con_viaje": 20,
+      "VSS_f1_pct": 7.1,
+      "cadena_f1_ok": false
+    },
+    "ruta": {
+      "EEV_f1": 17408.995413199307,
+      "viajes_extra": 2,
+      "escenarios_con_viaje": 2,
+      "VSS_f1_pct": 0.0,
+      "cadena_f1_ok": false
+    },
+    "RP_f1": 17677.459563344317,
+    "WS_f1": 17858.893746335994,
+    "rutas_EV": 2
+  },
+  "modulo_F": [
+    {
+      "model": "Naive-7d",
+      "rmse": 2.7683,
+      "vsshv_pct_canonico": 34.1,
+      "vsshv_pct": 34.1,
+      "vsshv_pct_corregido": 20.32,
+      "reproduce_canonico": true
+    },
+    {
+      "model": "ARIMA",
+      "rmse": 4.2933,
+      "vsshv_pct_canonico": 24.05,
+      "vsshv_pct": 24.05,
+      "vsshv_pct_corregido": 8.8,
+      "reproduce_canonico": true
+    },
+    {
+      "model": "XGBoost-Q",
+      "rmse": 5.9903,
+      "vsshv_pct_canonico": 29.18,
+      "vsshv_pct": 29.18,
+      "vsshv_pct_corregido": 14.43,
+      "reproduce_canonico": true
+    },
+    {
+      "model": "BiLSTM+XGB",
+      "rmse": 3.2121,
+      "vsshv_pct_canonico": 41.58,
+      "vsshv_pct": 24.79,
+      "vsshv_pct_corregido": 9.79,
+      "reproduce_canonico": false
+    }
+  ],
+  "nota_F": "La fila BiLSTM+XGB entrena un BiLSTM en TensorFlow (no determinista): su valor reproducido puede diferir del canónico. Las filas deterministas verifican el cálculo.",
+  "tiempo_s": 198.6
+}

@@ -1,0 +1,249 @@
+{
+  "n_runs": 30,
+  "n_gen": 200,
+  "pop_size": 100,
+  "families": [
+    "C1",
+    "C2",
+    "R1",
+    "R2",
+    "RC1",
+    "RC2"
+  ],
+  "t_total_s": 1509.5,
+  "ranking": {
+    "NSGA-II": {
+      "mean_rank": 1.56,
+      "std_rank": 0.5,
+      "global_position": 1
+    },
+    "NSGA-III": {
+      "mean_rank": 2.72,
+      "std_rank": 0.45,
+      "global_position": 3
+    },
+    "MOEA/D": {
+      "mean_rank": 1.72,
+      "std_rank": 0.87,
+      "global_position": 2
+    }
+  },
+  "tabla_publicacion": [
+    {
+      "instance": "C1-100",
+      "metric": "hv",
+      "friedman_p": 0.0005,
+      "significant": true,
+      "NSGA-II_mean": 1.5365053737830482e+18,
+      "NSGA-II_std": 4.199436227622011e+17,
+      "NSGA-III_mean": 1.1780950514300977e+18,
+      "NSGA-III_std": 3.3635531766585926e+17,
+      "MOEA/D_mean": 9.416331182292188e+17,
+      "MOEA/D_std": 3.687369663032669e+17
+    },
+    {
+      "instance": "C1-100",
+      "metric": "igd",
+      "friedman_p": 0.000112,
+      "significant": true,
+      "NSGA-II_mean": 1471745860.7732,
+      "NSGA-II_std": 425306788.7254,
+      "NSGA-III_mean": 2196416281.843,
+      "NSGA-III_std": 681254893.3144,
+      "MOEA/D_mean": 1773751203.9608,
+      "MOEA/D_std": 197366058.0217
+    },
+    {
+      "instance": "C1-100",
+      "metric": "spacing",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 143070121.6697,
+      "NSGA-II_std": 134164129.3626,
+      "NSGA-III_mean": 281568953.4223,
+      "NSGA-III_std": 170631732.8673,
+      "MOEA/D_mean": 3113929.035,
+      "MOEA/D_std": 10799007.6402
+    },
+    {
+      "instance": "C2-100",
+      "metric": "hv",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 1.4558943125623557e+18,
+      "NSGA-II_std": 3.273638979259498e+17,
+      "NSGA-III_mean": 1.0888031969819872e+18,
+      "NSGA-III_std": 3.3548005177483616e+17,
+      "MOEA/D_mean": 5.75824799708913e+17,
+      "MOEA/D_std": 2.4457291600760995e+17
+    },
+    {
+      "instance": "C2-100",
+      "metric": "igd",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 1817870216.1597,
+      "NSGA-II_std": 379367666.2442,
+      "NSGA-III_mean": 2526232084.2493,
+      "NSGA-III_std": 526441358.9967,
+      "MOEA/D_mean": 1377355798.5655,
+      "MOEA/D_std": 61616112.7522
+    },
+    {
+      "instance": "C2-100",
+      "metric": "spacing",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 116490316.1803,
+      "NSGA-II_std": 77718353.7039,
+      "NSGA-III_mean": 445006449.9774,
+      "NSGA-III_std": 311819998.439,
+      "MOEA/D_mean": 8725557.0937,
+      "MOEA/D_std": 18648379.0172
+    },
+    {
+      "instance": "R1-100",
+      "metric": "hv",
+      "friedman_p": 9.1e-05,
+      "significant": true,
+      "NSGA-II_mean": 4.987109525960946e+18,
+      "NSGA-II_std": 1.058637399867617e+18,
+      "NSGA-III_mean": 3.817630003325847e+18,
+      "NSGA-III_std": 9.056565988499245e+17,
+      "MOEA/D_mean": 3.5160574949876695e+18,
+      "MOEA/D_std": 1.0422547627487414e+18
+    },
+    {
+      "instance": "R1-100",
+      "metric": "igd",
+      "friedman_p": 1.1e-05,
+      "significant": true,
+      "NSGA-II_mean": 1823555646.2184,
+      "NSGA-II_std": 520203555.1069,
+      "NSGA-III_mean": 2716441572.0931,
+      "NSGA-III_std": 787130847.495,
+      "MOEA/D_mean": 2147984634.6508,
+      "MOEA/D_std": 229831413.4798
+    },
+    {
+      "instance": "R1-100",
+      "metric": "spacing",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 240343176.7269,
+      "NSGA-II_std": 197571005.2246,
+      "NSGA-III_mean": 604245530.3687,
+      "NSGA-III_std": 459352049.6031,
+      "MOEA/D_mean": 1529923.0483,
+      "MOEA/D_std": 5213324.7899
+    },
+    {
+      "instance": "R2-100",
+      "metric": "hv",
+      "friedman_p": 0.005517,
+      "significant": true,
+      "NSGA-II_mean": 2.4928630877419653e+18,
+      "NSGA-II_std": 6.074193574520905e+17,
+      "NSGA-III_mean": 2.0047830743106022e+18,
+      "NSGA-III_std": 4.144842075800191e+17,
+      "MOEA/D_mean": 2.1827889700408174e+18,
+      "MOEA/D_std": 9.002923773884338e+17
+    },
+    {
+      "instance": "R2-100",
+      "metric": "igd",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 3194810433.9004,
+      "NSGA-II_std": 560041549.331,
+      "NSGA-III_mean": 3772190267.5242,
+      "NSGA-III_std": 534660269.1945,
+      "MOEA/D_mean": 2428427645.8923,
+      "MOEA/D_std": 142113893.464
+    },
+    {
+      "instance": "R2-100",
+      "metric": "spacing",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 224152779.5661,
+      "NSGA-II_std": 160575042.0402,
+      "NSGA-III_mean": 563386322.8714,
+      "NSGA-III_std": 513271159.0625,
+      "MOEA/D_mean": 5243868.1137,
+      "MOEA/D_std": 11328415.8178
+    },
+    {
+      "instance": "RC1-100",
+      "metric": "hv",
+      "friedman_p": 0.000178,
+      "significant": true,
+      "NSGA-II_mean": 3.513358602125898e+18,
+      "NSGA-II_std": 7.532438836441373e+17,
+      "NSGA-III_mean": 2.8663793063721994e+18,
+      "NSGA-III_std": 5.13847934742252e+17,
+      "MOEA/D_mean": 2.563515085201491e+18,
+      "MOEA/D_std": 7.342812395751498e+17
+    },
+    {
+      "instance": "RC1-100",
+      "metric": "igd",
+      "friedman_p": 2e-06,
+      "significant": true,
+      "NSGA-II_mean": 2082951426.1695,
+      "NSGA-II_std": 379680967.9954,
+      "NSGA-III_mean": 2614103155.2908,
+      "NSGA-III_std": 458776632.6195,
+      "MOEA/D_mean": 2030877978.1316,
+      "MOEA/D_std": 80661348.043
+    },
+    {
+      "instance": "RC1-100",
+      "metric": "spacing",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 155858281.22,
+      "NSGA-II_std": 85580590.6577,
+      "NSGA-III_mean": 430437424.5155,
+      "NSGA-III_std": 331817509.0146,
+      "MOEA/D_mean": 3488795.5668,
+      "MOEA/D_std": 9044417.0229
+    },
+    {
+      "instance": "RC2-100",
+      "metric": "hv",
+      "friedman_p": 0.001607,
+      "significant": true,
+      "NSGA-II_mean": 3.283904395092131e+18,
+      "NSGA-II_std": 6.795715357961987e+17,
+      "NSGA-III_mean": 2.669026292055714e+18,
+      "NSGA-III_std": 6.63591106237527e+17,
+      "MOEA/D_mean": 2.5801192319249725e+18,
+      "MOEA/D_std": 8.855417084996311e+17
+    },
+    {
+      "instance": "RC2-100",
+      "metric": "igd",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 3244053023.5148,
+      "NSGA-II_std": 586439281.0149,
+      "NSGA-III_mean": 4064314607.8032,
+      "NSGA-III_std": 657415375.2982,
+      "MOEA/D_mean": 1399787981.0059,
+      "MOEA/D_std": 367451937.5505
+    },
+    {
+      "instance": "RC2-100",
+      "metric": "spacing",
+      "friedman_p": 0.0,
+      "significant": true,
+      "NSGA-II_mean": 236841294.7902,
+      "NSGA-II_std": 193268607.435,
+      "NSGA-III_mean": 569939183.8716,
+      "NSGA-III_std": 638258046.4802,
+      "MOEA/D_mean": 5478553.9801,
+      "MOEA/D_std": 15417111.8368
+    }
+  ]
+}

@@ -1,0 +1,1449 @@
+{
+  "replicas": {
+    "25": [
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 27.662,
+            "ic95_pct": [
+              27.595,
+              27.729
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 27.253,
+            "ic95_pct": [
+              27.166,
+              27.34
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 5.583,
+            "ic95_pct": [
+              5.304,
+              5.861
+            ],
+            "favorables_pct": 97.3
+          },
+          "E4": {
+            "vss_pct": -6.439,
+            "ic95_pct": [
+              -6.705,
+              -6.173
+            ],
+            "favorables_pct": 0.0
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 27.535,
+            "ic95_pct": [
+              27.47,
+              27.599
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 27.312,
+            "ic95_pct": [
+              27.207,
+              27.417
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 5.505,
+            "ic95_pct": [
+              5.24,
+              5.769
+            ],
+            "favorables_pct": 98.1
+          },
+          "E4": {
+            "vss_pct": -6.609,
+            "ic95_pct": [
+              -6.87,
+              -6.347
+            ],
+            "favorables_pct": 0.1
+          }
+        },
+        "replica": "20260924_175256_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 5.199,
+            "ic95_pct": [
+              5.146,
+              5.251
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 8.683,
+            "ic95_pct": [
+              8.621,
+              8.746
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.993,
+            "ic95_pct": [
+              4.75,
+              5.235
+            ],
+            "favorables_pct": 99.3
+          },
+          "E4": {
+            "vss_pct": 3.502,
+            "ic95_pct": [
+              3.244,
+              3.759
+            ],
+            "favorables_pct": 98.9
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 5.404,
+            "ic95_pct": [
+              5.336,
+              5.471
+            ],
+            "favorables_pct": 99.9
+          },
+          "E2": {
+            "vss_pct": 8.811,
+            "ic95_pct": [
+              8.734,
+              8.888
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 5.609,
+            "ic95_pct": [
+              5.35,
+              5.868
+            ],
+            "favorables_pct": 98.3
+          },
+          "E4": {
+            "vss_pct": 3.691,
+            "ic95_pct": [
+              3.421,
+              3.961
+            ],
+            "favorables_pct": 97.1
+          }
+        },
+        "replica": "20260924_175358_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 10.353,
+            "ic95_pct": [
+              10.292,
+              10.415
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 11.491,
+            "ic95_pct": [
+              11.448,
+              11.533
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.558,
+            "ic95_pct": [
+              4.232,
+              4.883
+            ],
+            "favorables_pct": 97.1
+          },
+          "E4": {
+            "vss_pct": 2.067,
+            "ic95_pct": [
+              1.825,
+              2.309
+            ],
+            "favorables_pct": 32.6
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 10.454,
+            "ic95_pct": [
+              10.375,
+              10.534
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 11.63,
+            "ic95_pct": [
+              11.564,
+              11.696
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.991,
+            "ic95_pct": [
+              4.67,
+              5.312
+            ],
+            "favorables_pct": 97.7
+          },
+          "E4": {
+            "vss_pct": 2.3,
+            "ic95_pct": [
+              2.041,
+              2.56
+            ],
+            "favorables_pct": 37.6
+          }
+        },
+        "replica": "20260924_175504_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 16.414,
+            "ic95_pct": [
+              16.37,
+              16.459
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 15.401,
+            "ic95_pct": [
+              15.361,
+              15.441
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 7.576,
+            "ic95_pct": [
+              7.31,
+              7.841
+            ],
+            "favorables_pct": 99.4
+          },
+          "E4": {
+            "vss_pct": -1.462,
+            "ic95_pct": [
+              -1.717,
+              -1.206
+            ],
+            "favorables_pct": 30.6
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 16.434,
+            "ic95_pct": [
+              16.375,
+              16.494
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 15.445,
+            "ic95_pct": [
+              15.384,
+              15.506
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 8.042,
+            "ic95_pct": [
+              7.759,
+              8.325
+            ],
+            "favorables_pct": 98.5
+          },
+          "E4": {
+            "vss_pct": -1.502,
+            "ic95_pct": [
+              -1.753,
+              -1.251
+            ],
+            "favorables_pct": 29.5
+          }
+        },
+        "replica": "20260924_175615_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 13.584,
+            "ic95_pct": [
+              13.545,
+              13.624
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 7.891,
+            "ic95_pct": [
+              7.843,
+              7.939
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 6.964,
+            "ic95_pct": [
+              6.642,
+              7.286
+            ],
+            "favorables_pct": 99.5
+          },
+          "E4": {
+            "vss_pct": 1.772,
+            "ic95_pct": [
+              1.53,
+              2.014
+            ],
+            "favorables_pct": 95.4
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 13.661,
+            "ic95_pct": [
+              13.616,
+              13.706
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 8.011,
+            "ic95_pct": [
+              7.94,
+              8.082
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 6.981,
+            "ic95_pct": [
+              6.662,
+              7.301
+            ],
+            "favorables_pct": 99.1
+          },
+          "E4": {
+            "vss_pct": 2.018,
+            "ic95_pct": [
+              1.771,
+              2.265
+            ],
+            "favorables_pct": 94.0
+          }
+        },
+        "replica": "20260924_175726_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 3.741,
+            "ic95_pct": [
+              3.669,
+              3.812
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 9.254,
+            "ic95_pct": [
+              9.19,
+              9.318
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.314,
+            "ic95_pct": [
+              4.032,
+              4.597
+            ],
+            "favorables_pct": 98.9
+          },
+          "E4": {
+            "vss_pct": 0.305,
+            "ic95_pct": [
+              0.025,
+              0.586
+            ],
+            "favorables_pct": 30.9
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 3.931,
+            "ic95_pct": [
+              3.845,
+              4.017
+            ],
+            "favorables_pct": 99.9
+          },
+          "E2": {
+            "vss_pct": 9.401,
+            "ic95_pct": [
+              9.307,
+              9.494
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.549,
+            "ic95_pct": [
+              4.256,
+              4.842
+            ],
+            "favorables_pct": 97.4
+          },
+          "E4": {
+            "vss_pct": 0.197,
+            "ic95_pct": [
+              -0.082,
+              0.476
+            ],
+            "favorables_pct": 30.8
+          }
+        },
+        "replica": "20260924_222934_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 6.912,
+            "ic95_pct": [
+              6.841,
+              6.983
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 11.368,
+            "ic95_pct": [
+              11.305,
+              11.431
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 6.399,
+            "ic95_pct": [
+              6.113,
+              6.684
+            ],
+            "favorables_pct": 98.3
+          },
+          "E4": {
+            "vss_pct": -4.452,
+            "ic95_pct": [
+              -4.706,
+              -4.197
+            ],
+            "favorables_pct": 21.7
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 6.928,
+            "ic95_pct": [
+              6.861,
+              6.996
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 11.394,
+            "ic95_pct": [
+              11.328,
+              11.46
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 6.535,
+            "ic95_pct": [
+              6.233,
+              6.837
+            ],
+            "favorables_pct": 96.9
+          },
+          "E4": {
+            "vss_pct": -4.504,
+            "ic95_pct": [
+              -4.758,
+              -4.25
+            ],
+            "favorables_pct": 22.6
+          }
+        },
+        "replica": "20260924_223047_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 17.517,
+            "ic95_pct": [
+              17.45,
+              17.585
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 13.443,
+            "ic95_pct": [
+              13.368,
+              13.518
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 5.861,
+            "ic95_pct": [
+              5.531,
+              6.191
+            ],
+            "favorables_pct": 97.8
+          },
+          "E4": {
+            "vss_pct": -5.214,
+            "ic95_pct": [
+              -5.454,
+              -4.974
+            ],
+            "favorables_pct": 21.6
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 17.512,
+            "ic95_pct": [
+              17.44,
+              17.584
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 13.416,
+            "ic95_pct": [
+              13.338,
+              13.494
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.931,
+            "ic95_pct": [
+              4.623,
+              5.239
+            ],
+            "favorables_pct": 96.9
+          },
+          "E4": {
+            "vss_pct": -5.483,
+            "ic95_pct": [
+              -5.713,
+              -5.252
+            ],
+            "favorables_pct": 18.6
+          }
+        },
+        "replica": "20260924_223220_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 19.6,
+            "ic95_pct": [
+              19.535,
+              19.665
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 22.827,
+            "ic95_pct": [
+              22.777,
+              22.876
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.237,
+            "ic95_pct": [
+              3.947,
+              4.527
+            ],
+            "favorables_pct": 97.6
+          },
+          "E4": {
+            "vss_pct": -2.758,
+            "ic95_pct": [
+              -2.988,
+              -2.528
+            ],
+            "favorables_pct": 32.2
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 19.616,
+            "ic95_pct": [
+              19.548,
+              19.683
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 22.858,
+            "ic95_pct": [
+              22.803,
+              22.913
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.225,
+            "ic95_pct": [
+              3.93,
+              4.521
+            ],
+            "favorables_pct": 96.8
+          },
+          "E4": {
+            "vss_pct": -2.618,
+            "ic95_pct": [
+              -2.857,
+              -2.379
+            ],
+            "favorables_pct": 34.8
+          }
+        },
+        "replica": "20260924_223338_s4",
+        "n": 25
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 9.588,
+            "ic95_pct": [
+              9.518,
+              9.657
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 8.935,
+            "ic95_pct": [
+              8.866,
+              9.004
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 5.27,
+            "ic95_pct": [
+              5.011,
+              5.528
+            ],
+            "favorables_pct": 99.2
+          },
+          "E4": {
+            "vss_pct": 4.548,
+            "ic95_pct": [
+              4.301,
+              4.795
+            ],
+            "favorables_pct": 99.8
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 9.676,
+            "ic95_pct": [
+              9.603,
+              9.749
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 9.03,
+            "ic95_pct": [
+              8.957,
+              9.103
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 5.716,
+            "ic95_pct": [
+              5.453,
+              5.978
+            ],
+            "favorables_pct": 99.2
+          },
+          "E4": {
+            "vss_pct": 4.627,
+            "ic95_pct": [
+              4.365,
+              4.888
+            ],
+            "favorables_pct": 98.3
+          }
+        },
+        "replica": "20260924_223441_s4",
+        "n": 25
+      }
+    ],
+    "50": [
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 17.769,
+            "ic95_pct": [
+              17.725,
+              17.814
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 12.49,
+            "ic95_pct": [
+              12.434,
+              12.547
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 0.586,
+            "ic95_pct": [
+              0.377,
+              0.796
+            ],
+            "favorables_pct": 40.3
+          },
+          "E4": {
+            "vss_pct": -1.713,
+            "ic95_pct": [
+              -1.912,
+              -1.513
+            ],
+            "favorables_pct": 20.3
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 17.986,
+            "ic95_pct": [
+              17.928,
+              18.043
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 12.729,
+            "ic95_pct": [
+              12.655,
+              12.802
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 0.384,
+            "ic95_pct": [
+              0.171,
+              0.597
+            ],
+            "favorables_pct": 42.9
+          },
+          "E4": {
+            "vss_pct": -0.822,
+            "ic95_pct": [
+              -1.034,
+              -0.609
+            ],
+            "favorables_pct": 29.5
+          }
+        },
+        "replica": "20260924_175831_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 13.039,
+            "ic95_pct": [
+              12.995,
+              13.082
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 14.44,
+            "ic95_pct": [
+              14.379,
+              14.501
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 0.994,
+            "ic95_pct": [
+              0.803,
+              1.186
+            ],
+            "favorables_pct": 51.6
+          },
+          "E4": {
+            "vss_pct": -0.192,
+            "ic95_pct": [
+              -0.389,
+              0.004
+            ],
+            "favorables_pct": 51.0
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 13.401,
+            "ic95_pct": [
+              13.341,
+              13.461
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 14.833,
+            "ic95_pct": [
+              14.758,
+              14.908
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 0.599,
+            "ic95_pct": [
+              0.397,
+              0.801
+            ],
+            "favorables_pct": 50.0
+          },
+          "E4": {
+            "vss_pct": 0.53,
+            "ic95_pct": [
+              0.341,
+              0.72
+            ],
+            "favorables_pct": 61.6
+          }
+        },
+        "replica": "20260924_175952_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 30.844,
+            "ic95_pct": [
+              30.818,
+              30.87
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 30.844,
+            "ic95_pct": [
+              30.818,
+              30.87
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 1.47,
+            "ic95_pct": [
+              1.257,
+              1.684
+            ],
+            "favorables_pct": 74.7
+          },
+          "E4": {
+            "vss_pct": -0.221,
+            "ic95_pct": [
+              -0.409,
+              -0.033
+            ],
+            "favorables_pct": 48.4
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 30.922,
+            "ic95_pct": [
+              30.887,
+              30.956
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 30.922,
+            "ic95_pct": [
+              30.887,
+              30.956
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 1.621,
+            "ic95_pct": [
+              1.417,
+              1.826
+            ],
+            "favorables_pct": 75.9
+          },
+          "E4": {
+            "vss_pct": 0.344,
+            "ic95_pct": [
+              0.152,
+              0.537
+            ],
+            "favorables_pct": 55.7
+          }
+        },
+        "replica": "20260924_180111_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 16.879,
+            "ic95_pct": [
+              16.848,
+              16.909
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 20.011,
+            "ic95_pct": [
+              19.968,
+              20.055
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 3.109,
+            "ic95_pct": [
+              2.904,
+              3.314
+            ],
+            "favorables_pct": 86.9
+          },
+          "E4": {
+            "vss_pct": -2.112,
+            "ic95_pct": [
+              -2.306,
+              -1.917
+            ],
+            "favorables_pct": 23.0
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 17.02,
+            "ic95_pct": [
+              16.974,
+              17.066
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 20.281,
+            "ic95_pct": [
+              20.223,
+              20.338
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 3.181,
+            "ic95_pct": [
+              2.981,
+              3.382
+            ],
+            "favorables_pct": 88.4
+          },
+          "E4": {
+            "vss_pct": -1.397,
+            "ic95_pct": [
+              -1.609,
+              -1.186
+            ],
+            "favorables_pct": 31.5
+          }
+        },
+        "replica": "20260924_180226_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 16.047,
+            "ic95_pct": [
+              16.021,
+              16.074
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 18.191,
+            "ic95_pct": [
+              18.15,
+              18.232
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 0.264,
+            "ic95_pct": [
+              0.047,
+              0.481
+            ],
+            "favorables_pct": 42.3
+          },
+          "E4": {
+            "vss_pct": -5.192,
+            "ic95_pct": [
+              -5.405,
+              -4.98
+            ],
+            "favorables_pct": 7.5
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 16.169,
+            "ic95_pct": [
+              16.128,
+              16.21
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 18.17,
+            "ic95_pct": [
+              18.121,
+              18.218
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": -0.076,
+            "ic95_pct": [
+              -0.293,
+              0.14
+            ],
+            "favorables_pct": 41.6
+          },
+          "E4": {
+            "vss_pct": -4.457,
+            "ic95_pct": [
+              -4.665,
+              -4.248
+            ],
+            "favorables_pct": 10.2
+          }
+        },
+        "replica": "20260924_180343_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 21.526,
+            "ic95_pct": [
+              21.471,
+              21.58
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 17.745,
+            "ic95_pct": [
+              17.717,
+              17.774
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 4.319,
+            "ic95_pct": [
+              4.127,
+              4.511
+            ],
+            "favorables_pct": 87.9
+          },
+          "E4": {
+            "vss_pct": 1.243,
+            "ic95_pct": [
+              1.029,
+              1.456
+            ],
+            "favorables_pct": 59.8
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 21.695,
+            "ic95_pct": [
+              21.626,
+              21.764
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 17.811,
+            "ic95_pct": [
+              17.773,
+              17.85
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 3.918,
+            "ic95_pct": [
+              3.726,
+              4.111
+            ],
+            "favorables_pct": 85.4
+          },
+          "E4": {
+            "vss_pct": 1.813,
+            "ic95_pct": [
+              1.601,
+              2.025
+            ],
+            "favorables_pct": 67.9
+          }
+        },
+        "replica": "20260924_223550_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 16.208,
+            "ic95_pct": [
+              16.18,
+              16.236
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 12.868,
+            "ic95_pct": [
+              12.832,
+              12.905
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 2.606,
+            "ic95_pct": [
+              2.401,
+              2.811
+            ],
+            "favorables_pct": 81.1
+          },
+          "E4": {
+            "vss_pct": -2.231,
+            "ic95_pct": [
+              -2.435,
+              -2.027
+            ],
+            "favorables_pct": 21.3
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 16.299,
+            "ic95_pct": [
+              16.256,
+              16.341
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 13.01,
+            "ic95_pct": [
+              12.947,
+              13.073
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 2.534,
+            "ic95_pct": [
+              2.335,
+              2.733
+            ],
+            "favorables_pct": 81.5
+          },
+          "E4": {
+            "vss_pct": -0.901,
+            "ic95_pct": [
+              -1.108,
+              -0.694
+            ],
+            "favorables_pct": 33.6
+          }
+        },
+        "replica": "20260924_223711_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 15.946,
+            "ic95_pct": [
+              15.908,
+              15.983
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 15.758,
+            "ic95_pct": [
+              15.724,
+              15.792
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 1.62,
+            "ic95_pct": [
+              1.425,
+              1.815
+            ],
+            "favorables_pct": 78.0
+          },
+          "E4": {
+            "vss_pct": 0.146,
+            "ic95_pct": [
+              -0.048,
+              0.341
+            ],
+            "favorables_pct": 53.0
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 16.099,
+            "ic95_pct": [
+              16.047,
+              16.151
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 15.959,
+            "ic95_pct": [
+              15.903,
+              16.015
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 1.298,
+            "ic95_pct": [
+              1.097,
+              1.499
+            ],
+            "favorables_pct": 69.6
+          },
+          "E4": {
+            "vss_pct": 1.087,
+            "ic95_pct": [
+              0.887,
+              1.286
+            ],
+            "favorables_pct": 67.5
+          }
+        },
+        "replica": "20260924_223838_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 24.793,
+            "ic95_pct": [
+              24.715,
+              24.87
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 22.283,
+            "ic95_pct": [
+              22.248,
+              22.318
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": -1.031,
+            "ic95_pct": [
+              -1.244,
+              -0.818
+            ],
+            "favorables_pct": 24.6
+          },
+          "E4": {
+            "vss_pct": -2.073,
+            "ic95_pct": [
+              -2.28,
+              -1.865
+            ],
+            "favorables_pct": 20.7
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 25.228,
+            "ic95_pct": [
+              25.138,
+              25.317
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 22.381,
+            "ic95_pct": [
+              22.326,
+              22.437
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": -1.041,
+            "ic95_pct": [
+              -1.254,
+              -0.827
+            ],
+            "favorables_pct": 29.8
+          },
+          "E4": {
+            "vss_pct": -1.63,
+            "ic95_pct": [
+              -1.843,
+              -1.418
+            ],
+            "favorables_pct": 26.9
+          }
+        },
+        "replica": "20260924_224006_s4",
+        "n": 50
+      },
+      {
+        "oos_modelo": {
+          "E1": {
+            "vss_pct": 19.522,
+            "ic95_pct": [
+              19.495,
+              19.55
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 19.245,
+            "ic95_pct": [
+              19.175,
+              19.315
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 1.634,
+            "ic95_pct": [
+              1.432,
+              1.836
+            ],
+            "favorables_pct": 80.8
+          },
+          "E4": {
+            "vss_pct": -3.844,
+            "ic95_pct": [
+              -4.047,
+              -3.641
+            ],
+            "favorables_pct": 9.4
+          }
+        },
+        "oos_real": {
+          "E1": {
+            "vss_pct": 19.544,
+            "ic95_pct": [
+              19.507,
+              19.58
+            ],
+            "favorables_pct": 100.0
+          },
+          "E2": {
+            "vss_pct": 19.496,
+            "ic95_pct": [
+              19.411,
+              19.58
+            ],
+            "favorables_pct": 100.0
+          },
+          "E3": {
+            "vss_pct": 1.445,
+            "ic95_pct": [
+              1.23,
+              1.659
+            ],
+            "favorables_pct": 74.6
+          },
+          "E4": {
+            "vss_pct": -3.231,
+            "ic95_pct": [
+              -3.429,
+              -3.033
+            ],
+            "favorables_pct": 11.7
+          }
+        },
+        "replica": "20260924_224141_s4",
+        "n": 50
+      }
+    ]
+  },
+  "excluidas": []
+}

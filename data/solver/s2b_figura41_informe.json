@@ -1,0 +1,23 @@
+{
+  "fecha": "2026-09-24T22:28:11",
+  "n_clients": 10,
+  "capacidad_kg": 200,
+  "demanda_total_kg": 287.0,
+  "prioridades": {
+    "urgente": 3,
+    "preferente": 2,
+    "ordinaria": 5
+  },
+  "n_pareto": 200,
+  "hypervolume": 948556120523.0635,
+  "elapsed_s": 5.534263849258423,
+  "compromiso_topsis": {
+    "f1_min": 88.37261847717723,
+    "f2_x1000": 15380.972361615712,
+    "f3": 190.2780632119826
+  },
+  "rango_f1_min": [
+    86.38128649652235,
+    103.27676061625246
+  ]
+}

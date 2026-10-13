@@ -1,0 +1,5 @@
+model,rmse,crps,pinball_q10,pinball_q50,pinball_q90,coverage_pct,vsshv_pct,vsshv_pct_corregido,vsshv_pct_canonico,reproduce_canonico
+Naive-7d,2.7683,1.9863,0.8116,0.9393,1.0377,100.0,34.1,20.32,34.1,True
+ARIMA,4.2933,2.3377,0.7543,1.3964,1.1008,100.0,24.05,8.8,24.05,True
+XGBoost-Q,5.9903,3.2226,1.3398,2.1023,0.8633,80.0,29.18,14.43,29.18,True
+BiLSTM+XGB,3.2121,2.0753,0.7817,1.1321,0.9021,96.0,24.79,9.79,41.58,False

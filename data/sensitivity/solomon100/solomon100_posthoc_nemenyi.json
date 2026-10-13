@@ -1,0 +1,413 @@
+{
+  "method": "nemenyi",
+  "per_instance": {
+    "C1-100": {
+      "hv": {
+        "friedman_stat": 15.2,
+        "friedman_p": 0.0005,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0526,
+            "MOEA/D": 0.0003
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0526,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.268
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0003,
+            "NSGA-III": 0.268,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "igd": {
+        "friedman_stat": 18.2,
+        "friedman_p": 0.000112,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0001,
+            "MOEA/D": 0.1285
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0001,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0526
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.1285,
+            "NSGA-III": 0.0526,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "spacing": {
+        "friedman_stat": 42.8889,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.1119,
+            "MOEA/D": 0.0
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.1119,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      }
+    },
+    "C2-100": {
+      "hv": {
+        "friedman_stat": 39.2667,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.2135,
+            "MOEA/D": 0.0
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.2135,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "igd": {
+        "friedman_stat": 41.8667,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0125,
+            "MOEA/D": 0.0009
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0125,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0009,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "spacing": {
+        "friedman_stat": 46.6441,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0266,
+            "MOEA/D": 0.0001
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0266,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0001,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      }
+    },
+    "R1-100": {
+      "hv": {
+        "friedman_stat": 18.6,
+        "friedman_p": 9.1e-05,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0184,
+            "MOEA/D": 0.0001
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0184,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.268
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0001,
+            "NSGA-III": 0.268,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "igd": {
+        "friedman_stat": 22.8667,
+        "friedman_p": 1.1e-05,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 0.0266
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0721
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0266,
+            "NSGA-III": 0.0721,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "spacing": {
+        "friedman_stat": 51.6667,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0266,
+            "MOEA/D": 0.0
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0266,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      }
+    },
+    "R2-100": {
+      "hv": {
+        "friedman_stat": 10.4,
+        "friedman_p": 0.005517,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0055,
+            "MOEA/D": 0.0526
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0055,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.7186
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0526,
+            "NSGA-III": 0.7186,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "igd": {
+        "friedman_stat": 45.8,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.1285,
+            "MOEA/D": 0.0
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.1285,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "spacing": {
+        "friedman_stat": 44.1356,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.4761,
+            "MOEA/D": 0.0
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.4761,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      }
+    },
+    "RC1-100": {
+      "hv": {
+        "friedman_stat": 17.2667,
+        "friedman_p": 0.000178,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0084,
+            "MOEA/D": 0.0002
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0084,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.5561
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0002,
+            "NSGA-III": 0.5561,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "igd": {
+        "friedman_stat": 25.8667,
+        "friedman_p": 2e-06,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0009,
+            "MOEA/D": 0.4002
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0009,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.4002,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "spacing": {
+        "friedman_stat": 49.4,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0184,
+            "MOEA/D": 0.0001
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0184,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0001,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      }
+    },
+    "RC2-100": {
+      "hv": {
+        "friedman_stat": 12.8667,
+        "friedman_p": 0.001607,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0084,
+            "MOEA/D": 0.0036
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0084,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.9639
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0036,
+            "NSGA-III": 0.9639,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "igd": {
+        "friedman_stat": 53.0667,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.0125,
+            "MOEA/D": 0.0
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.0125,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      },
+      "spacing": {
+        "friedman_stat": 43.5798,
+        "friedman_p": 0.0,
+        "n_blocks": 30,
+        "posthoc": {
+          "NSGA-II": {
+            "NSGA-II": 1.0,
+            "NSGA-III": 0.2398,
+            "MOEA/D": 0.0
+          },
+          "NSGA-III": {
+            "NSGA-II": 0.2398,
+            "NSGA-III": 1.0,
+            "MOEA/D": 0.0
+          },
+          "MOEA/D": {
+            "NSGA-II": 0.0,
+            "NSGA-III": 0.0,
+            "MOEA/D": 1.0
+          }
+        }
+      }
+    }
+  }
+}

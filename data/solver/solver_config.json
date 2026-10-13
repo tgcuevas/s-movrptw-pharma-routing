@@ -1,0 +1,45 @@
+{
+  "solver": "NSGA-II (pymoo 0.6.1.3)",
+  "pop_size": 200,
+  "n_gen": 500,
+  "crossover": "OrderCrossover (OX)",
+  "mutation": "InversionMutation(prob=0.15)",
+  "decoding": "Split Prins O(N\u00b2)",
+  "seed_base": 42,
+  "alpha_pesos": {
+    "1": 10000,
+    "2": 5000,
+    "3": 1000
+  },
+  "tw_clases_s": {
+    "1": [
+      0,
+      900
+    ],
+    "2": [
+      0,
+      1800
+    ],
+    "3": [
+      0,
+      3600
+    ]
+  },
+  "benchmark": {
+    "C101-50": {
+      "hv_media": 162432184912.35876,
+      "hv_cv_pct": 35.80619146370931,
+      "t_media_s": 4.634730076789856
+    },
+    "R101-50": {
+      "hv_media": 257107944703.48984,
+      "hv_cv_pct": 28.16544026652803,
+      "t_media_s": 4.197464529673258
+    }
+  },
+  "sevilla_n10": {
+    "n_pareto": 200,
+    "hv": 948556120523.0635,
+    "elapsed_s": 5.463095188140869
+  }
+}

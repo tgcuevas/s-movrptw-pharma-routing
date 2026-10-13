@@ -1,0 +1,27 @@
+{
+  "A1_tardanza_solida": "no concluyente",
+  "A2_tiempo_modesto": "no concluyente",
+  "A3_independencia_entrenamiento": "ver recuentos",
+  "mediana_E3_replicas": {
+    "25": {
+      "oos_modelo": 5.4265,
+      "oos_real": 5.557
+    },
+    "50": {
+      "oos_modelo": 1.545,
+      "oos_real": 1.3715000000000002
+    }
+  },
+  "recuento_E1_mayor_10": {
+    "25": {
+      "oos_modelo": "6/10",
+      "oos_real": "6/10"
+    },
+    "50": {
+      "oos_modelo": "10/10",
+      "oos_real": "10/10"
+    }
+  },
+  "excluidas": [],
+  "fecha": "2026-09-25T18:33:03"
+}

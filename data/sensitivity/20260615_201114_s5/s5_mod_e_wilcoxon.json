@@ -1,0 +1,53 @@
+{
+  "NSGA-II_vs_NSGA-III": {
+    "hv": {
+      "p_value": 1.4e-05,
+      "significant_05": true,
+      "significant_10": true
+    },
+    "igd": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    },
+    "spacing": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    }
+  },
+  "NSGA-II_vs_MOEA/D": {
+    "hv": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    },
+    "igd": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    },
+    "spacing": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    }
+  },
+  "NSGA-III_vs_MOEA/D": {
+    "hv": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    },
+    "igd": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    },
+    "spacing": {
+      "p_value": 0.0,
+      "significant_05": true,
+      "significant_10": true
+    }
+  }
+}

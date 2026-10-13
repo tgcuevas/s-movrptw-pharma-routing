@@ -1,0 +1,36 @@
+{
+  "25": {
+    "V0": true,
+    "V1": true,
+    "V2": true,
+    "V3": true,
+    "V4": true,
+    "V4_detalle": {
+      "desvios_formula": true,
+      "desvios_no_decrecen": true,
+      "identidad_f1": true
+    },
+    "V5": true,
+    "V5_detalle": {
+      "vss_f1_simulado_pct": 6.12,
+      "asimetria_max_matriz_s": 0.0
+    }
+  },
+  "50": {
+    "V0": true,
+    "V1": true,
+    "V2": true,
+    "V3": true,
+    "V4": true,
+    "V4_detalle": {
+      "desvios_formula": true,
+      "desvios_no_decrecen": true,
+      "identidad_f1": true
+    },
+    "V5": null,
+    "V5_detalle": {
+      "vss_f1_simulado_pct": 7.036,
+      "asimetria_max_matriz_s": 0.0
+    }
+  }
+}
