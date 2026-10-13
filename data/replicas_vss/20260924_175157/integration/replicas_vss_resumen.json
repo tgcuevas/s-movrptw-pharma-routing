@@ -1,0 +1,74 @@
+{
+  "fecha": "20260924_175157",
+  "replicas_por_tamano": 5,
+  "semilla": 42,
+  "K": 20,
+  "fuente_de_variacion": "entrenamiento no determinista del BiLSTM (TensorFlow); misma semilla y código",
+  "s4_huella": "f496876ef3a11d7a",
+  "por_tamano": {
+    "25": {
+      "canonico": {
+        "run_s4": "20260615_201043_s4",
+        "vss_pct": {
+          "f1": 6.31,
+          "f2": 16.72,
+          "f3": 7.72
+        }
+      },
+      "vss_f1": {
+        "min": 4.39,
+        "max": 7.2,
+        "media": 5.87
+      },
+      "vss_f2": {
+        "min": 3.6,
+        "max": 26.73,
+        "media": 14.2
+      },
+      "vss_f3": {
+        "min": 5.26,
+        "max": 9.78,
+        "media": 7.43
+      },
+      "H1_cumple (vss_f1 > 5)": "3/5",
+      "H2_cumple (vss_f2 > 10)": "3/5",
+      "orden_f2>f3>f1": "3/5",
+      "cobertura": {
+        "min": 96.6,
+        "max": 96.8
+      }
+    },
+    "50": {
+      "canonico": {
+        "run_s4": "20260615_205516_s4",
+        "vss_pct": {
+          "f1": 7.19,
+          "f2": 14.88,
+          "f3": 10.05
+        }
+      },
+      "vss_f1": {
+        "min": 3.69,
+        "max": 7.92,
+        "media": 5.85
+      },
+      "vss_f2": {
+        "min": 2.54,
+        "max": 22.11,
+        "media": 14.08
+      },
+      "vss_f3": {
+        "min": 5.41,
+        "max": 9.91,
+        "media": 7.11
+      },
+      "H1_cumple (vss_f1 > 5)": "3/5",
+      "H2_cumple (vss_f2 > 10)": "4/5",
+      "orden_f2>f3>f1": "4/5",
+      "cobertura": {
+        "min": 95.7,
+        "max": 96.0
+      }
+    }
+  }
+}
