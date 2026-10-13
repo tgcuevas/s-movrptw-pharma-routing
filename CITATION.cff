@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "Si utilizas este código o estos datos, cítalos con los metadatos de este fichero."
+type: software
+title: "A hybrid stochastic multi-objective framework for urban emergency pharmaceutical routing: source code, synthetic data and results (S-MOVRPTW)"
+version: "1.0.0"
+date-released: "2026-10-12"
+doi: "10.5281/zenodo.20714222"
+license: MIT
+repository-code: "https://github.com/tgcuevas/s-movrptw-pharma-routing"
+authors:
+  - family-names: "González Cuevas"
+    given-names: "Antonio"
+    affiliation: "Universidad Pablo de Olavide"
+    orcid: "https://orcid.org/0009-0001-1381-9061"
+keywords:
+  - vehicle routing
+  - CVRPTW
+  - stochastic multi-objective optimization
+  - NSGA-II
+  - sample average approximation
+  - value of the stochastic solution
+  - probabilistic demand forecasting
+  - pharmaceutical distribution
+  - out-of-sample evaluation
+abstract: >-
+  Código y datos de un problema de rutas con capacidad y ventanas temporales,
+  estocástico y triobjetivo (tiempo de ruta, tardanza ponderada por prioridad
+  clínica y proxy de emisiones), para el reparto urgente de medicamentos en
+  Sevilla. Integra predicción probabilística de la demanda (BiLSTM y XGBoost),
+  escenarios SAA correlacionados, NSGA-II comparado con NSGA-III y MOEA/D, y
+  análisis de sensibilidad de Sobol, con demanda sintética, la red viaria de
+  OpenStreetMap en la instancia de 10 farmacias y una matriz de tiempos
+  sintética en las de 25 y 50. Incluye pruebas placebo, controles negativos y
+  una evaluación fuera de muestra con criterios fijados antes de ejecutarla.
+preferred-citation:
+  type: thesis
+  thesis-type: "Trabajo Fin de Máster"
+  title: "Optimización Multiobjetivo de Rutas de Emergencia Sanitaria en Entornos Urbanos"
+  authors:
+    - family-names: "González Cuevas"
+      given-names: "Antonio"
+      affiliation: "Universidad Pablo de Olavide"
+      orcid: "https://orcid.org/0009-0001-1381-9061"
+  institution:
+    name: "Universidad Pablo de Olavide"
+    city: "Sevilla"
+    country: "ES"
+  year: 2026
