@@ -1,0 +1,24 @@
+{
+  "naive": {
+    "rmse": 10.3488,
+    "mae": 7.536,
+    "smape": 66.86
+  },
+  "xgboost": {
+    "rmse_q10": 10.0996,
+    "rmse_q50": 7.3995,
+    "rmse_q90": 12.809,
+    "skill_q50_vs_naive": 28.5
+  },
+  "bilstm": {
+    "val_nll_loss": 0.5511,
+    "rmse_q50_approx": 6.345,
+    "skill_q50_vs_naive": 38.69,
+    "n_epochs_trained": 79
+  },
+  "calibration": {
+    "empirical_coverage_pct": 96.4,
+    "target_pct": 80.0,
+    "n_obs_evaluated": 500
+  }
+}

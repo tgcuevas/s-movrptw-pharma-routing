@@ -1,0 +1,113 @@
+{
+  "fecha": "2026-09-25T08:34:40",
+  "conjuntos": [
+    "20260924_175157",
+    "20260924_222811"
+  ],
+  "semilla": 42,
+  "K": 20,
+  "s4_huellas_admitidas": [
+    "c1eecb5ba4488c98",
+    "d3d515df104062ad",
+    "f496876ef3a11d7a"
+  ],
+  "fuente_de_variacion": "entrenamiento no determinista del BiLSTM (TensorFlow); misma semilla y código",
+  "por_tamano": {
+    "25": {
+      "n_replicas": 10,
+      "canonico_vss_pct": {
+        "f1": 6.31,
+        "f2": 16.72,
+        "f3": 7.72
+      },
+      "vss_f1": {
+        "min": 3.8,
+        "mediana": 5.31,
+        "media": 5.72,
+        "max": 7.53,
+        "positivos": "10/10",
+        "sobre_umbral_5": "5/10"
+      },
+      "vss_f2": {
+        "min": 3.6,
+        "mediana": 15.27,
+        "media": 15.64,
+        "max": 32.59,
+        "positivos": "10/10",
+        "sobre_umbral_10": "7/10"
+      },
+      "vss_f3": {
+        "min": 5.19,
+        "mediana": 7.5,
+        "media": 7.27,
+        "max": 9.78,
+        "positivos": "10/10"
+      },
+      "orden_f2>f3>f1": "8/10",
+      "viajes_extra": [
+        4,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        8,
+        8
+      ],
+      "cobertura_pct": {
+        "min": 96.2,
+        "max": 97.0
+      }
+    },
+    "50": {
+      "n_replicas": 10,
+      "canonico_vss_pct": {
+        "f1": 7.19,
+        "f2": 14.88,
+        "f3": 10.05
+      },
+      "vss_f1": {
+        "min": 3.65,
+        "mediana": 5.26,
+        "media": 5.4,
+        "max": 7.92,
+        "positivos": "10/10",
+        "sobre_umbral_5": "6/10"
+      },
+      "vss_f2": {
+        "min": 2.54,
+        "mediana": 16.08,
+        "media": 15.3,
+        "max": 27.16,
+        "positivos": "10/10",
+        "sobre_umbral_10": "7/10"
+      },
+      "vss_f3": {
+        "min": 5.41,
+        "mediana": 7.43,
+        "media": 7.28,
+        "max": 9.91,
+        "positivos": "10/10"
+      },
+      "orden_f2>f3>f1": "8/10",
+      "viajes_extra": [
+        10,
+        12,
+        12,
+        15,
+        15,
+        16,
+        18,
+        18,
+        20,
+        23
+      ],
+      "cobertura_pct": {
+        "min": 95.5,
+        "max": 96.0
+      }
+    }
+  }
+}
