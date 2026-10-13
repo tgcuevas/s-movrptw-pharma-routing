@@ -1,0 +1,3 @@
+metodo,f1_h,f2,f3_kg,n_rutas,cpu_s,pareto
+OR-Tools,7.127,16268704.9,237.37,9,30.0,1
+NSGA-II (compromiso),4.86,271027618.9,685.23,2,,19

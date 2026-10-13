@@ -1,0 +1,280 @@
+{
+  "W4": true,
+  "W5": {
+    "C1-100": true,
+    "C2-100": true,
+    "R1-100": true,
+    "R2-100": true,
+    "RC1-100": true,
+    "RC2-100": true,
+    "C101-25": true,
+    "R101-25": true
+  },
+  "contrastes": {
+    "C1-100": {
+      "friedman_p": 6.418498830106142e-10,
+      "rango_medio": {
+        "NSGA-II": 2.466666666666667,
+        "NSGA-III": 2.4,
+        "MOEA/D": 1.1333333333333333
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.019810034800401496,
+        "NSGA-III": 0.036226309099694265,
+        "MOEA/D": 0.37631051571753843
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 0.3454475304692257,
+          "mejor": "NSGA-III",
+          "significativo": false
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 0.0001544754925641821,
+          "mejor": "MOEA/D",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 0.0001544754925641821,
+          "mejor": "MOEA/D",
+          "significativo": true
+        }
+      }
+    },
+    "C101-25": {
+      "friedman_p": 1.4807039204169627e-10,
+      "rango_medio": {
+        "NSGA-II": 1.5666666666666667,
+        "NSGA-III": 1.4333333333333333,
+        "MOEA/D": 3.0
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.6142313243046461,
+        "NSGA-III": 0.6508981187062787,
+        "MOEA/D": 0.03531630758324335
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 0.5027610473334789,
+          "mejor": "NSGA-III",
+          "significativo": false
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 5.587935447692871e-09,
+          "mejor": "NSGA-II",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 5.587935447692871e-09,
+          "mejor": "NSGA-III",
+          "significativo": true
+        }
+      }
+    },
+    "C2-100": {
+      "friedman_p": 1.3570267979138948e-08,
+      "rango_medio": {
+        "NSGA-II": 2.3666666666666667,
+        "NSGA-III": 2.466666666666667,
+        "MOEA/D": 1.1666666666666667
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.054806077611300165,
+        "NSGA-III": 0.02291328806027931,
+        "MOEA/D": 0.38258854087220634
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 0.3622125914476987,
+          "mejor": "NSGA-III",
+          "significativo": false
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 0.00026160200199449706,
+          "mejor": "MOEA/D",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 8.157347914050662e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        }
+      }
+    },
+    "R1-100": {
+      "friedman_p": 9.357622968840163e-14,
+      "rango_medio": {
+        "NSGA-II": 2.5,
+        "NSGA-III": 2.5,
+        "MOEA/D": 1.0
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.0,
+        "NSGA-III": 0.0,
+        "MOEA/D": 0.5173800671674785
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 1.0,
+          "mejor": "NSGA-III",
+          "significativo": false
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 4.581897847267304e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 4.581897847267304e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        }
+      }
+    },
+    "R101-25": {
+      "friedman_p": 3.765388073611399e-10,
+      "rango_medio": {
+        "NSGA-II": 1.3666666666666667,
+        "NSGA-III": 1.6666666666666667,
+        "MOEA/D": 2.966666666666667
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.7127589495092088,
+        "NSGA-III": 0.5614482229416777,
+        "MOEA/D": 0.06742172544705435
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 0.024786051362752914,
+          "mejor": "NSGA-II",
+          "significativo": true
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 5.587935447692871e-09,
+          "mejor": "NSGA-II",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 1.862645149230957e-08,
+          "mejor": "NSGA-III",
+          "significativo": true
+        }
+      }
+    },
+    "R2-100": {
+      "friedman_p": 9.357622968840163e-14,
+      "rango_medio": {
+        "NSGA-II": 2.5,
+        "NSGA-III": 2.5,
+        "MOEA/D": 1.0
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.0,
+        "NSGA-III": 0.0,
+        "MOEA/D": 0.5426159792727415
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 1.0,
+          "mejor": "NSGA-III",
+          "significativo": false
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 3.583533889139133e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 3.583533889139133e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        }
+      }
+    },
+    "RC1-100": {
+      "friedman_p": 1.1154768542881332e-12,
+      "rango_medio": {
+        "NSGA-II": 2.433333333333333,
+        "NSGA-III": 2.533333333333333,
+        "MOEA/D": 1.0333333333333334
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.00890640153466272,
+        "NSGA-III": 0.0,
+        "MOEA/D": 0.5764446243193729
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 0.17971249487899976,
+          "mejor": "NSGA-III",
+          "significativo": false
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 1.0653775504591926e-05,
+          "mejor": "MOEA/D",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 4.284182723255806e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        }
+      }
+    },
+    "RC2-100": {
+      "friedman_p": 3.5114221133765336e-12,
+      "rango_medio": {
+        "NSGA-II": 2.433333333333333,
+        "NSGA-III": 2.533333333333333,
+        "MOEA/D": 1.0333333333333334
+      },
+      "nemenyi_cd": 0.6049599986775984,
+      "hv_medio": {
+        "NSGA-II": 0.015323329478101907,
+        "NSGA-III": 0.0007333333333333346,
+        "MOEA/D": 0.41904216841100955
+      },
+      "wilcoxon_holm": {
+        "NSGA-II vs NSGA-III": {
+          "p_holm": 0.16820413904818,
+          "mejor": "NSGA-III",
+          "significativo": false
+        },
+        "NSGA-II vs MOEA/D": {
+          "p_holm": 5.083233149132665e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        },
+        "NSGA-III vs MOEA/D": {
+          "p_holm": 5.083233149132665e-06,
+          "mejor": "MOEA/D",
+          "significativo": true
+        }
+      }
+    }
+  },
+  "decision_C3": {
+    "veredicto": "refutada",
+    "rango_medio_global": {
+      "NSGA-II": 2.2041666666666666,
+      "NSGA-III": 2.254166666666667,
+      "MOEA/D": 1.5416666666666665
+    },
+    "mejor_rango": "MOEA/D",
+    "NSGA-II_superior_significativo_en": {
+      "NSGA-III": 1,
+      "MOEA/D": 2
+    },
+    "mejor_superior_a_NSGA-II_en": 6,
+    "instancias": 8
+  },
+  "fecha": "2026-10-04T09:21:54",
+  "protocolo": "protocolo_consolidacion.md v1.0 (enmienda 1.1)"
+}

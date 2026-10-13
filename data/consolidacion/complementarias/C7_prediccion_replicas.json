@@ -1,0 +1,123 @@
+{
+  "referencia_descriptiva": {
+    "N25": {
+      "exceso_BiLSTM_pct": 0.863,
+      "exceso_ensemble_pct": 1.004
+    },
+    "N50": {
+      "exceso_BiLSTM_pct": 0.928,
+      "exceso_ensemble_pct": 2.174
+    }
+  },
+  "replicas": {
+    "25": [
+      {
+        "replica": "20260924_175256_s4",
+        "exceso_BiLSTM_pct": 0.778,
+        "exceso_ensemble_pct": 0.925
+      },
+      {
+        "replica": "20260924_175358_s4",
+        "exceso_BiLSTM_pct": 0.767,
+        "exceso_ensemble_pct": 1.236
+      },
+      {
+        "replica": "20260924_175504_s4",
+        "exceso_BiLSTM_pct": 0.619,
+        "exceso_ensemble_pct": 1.087
+      },
+      {
+        "replica": "20260924_175615_s4",
+        "exceso_BiLSTM_pct": 0.647,
+        "exceso_ensemble_pct": 0.929
+      },
+      {
+        "replica": "20260924_175726_s4",
+        "exceso_BiLSTM_pct": 0.579,
+        "exceso_ensemble_pct": 1.024
+      },
+      {
+        "replica": "20260924_222934_s4",
+        "exceso_BiLSTM_pct": 0.415,
+        "exceso_ensemble_pct": 1.089
+      },
+      {
+        "replica": "20260924_223047_s4",
+        "exceso_BiLSTM_pct": 0.835,
+        "exceso_ensemble_pct": 0.986
+      },
+      {
+        "replica": "20260924_223220_s4",
+        "exceso_BiLSTM_pct": 1.239,
+        "exceso_ensemble_pct": 1.193
+      },
+      {
+        "replica": "20260924_223338_s4",
+        "exceso_BiLSTM_pct": 0.734,
+        "exceso_ensemble_pct": 0.916
+      },
+      {
+        "replica": "20260924_223441_s4",
+        "exceso_BiLSTM_pct": 0.577,
+        "exceso_ensemble_pct": 1.084
+      }
+    ],
+    "50": [
+      {
+        "replica": "20260924_175831_s4",
+        "exceso_BiLSTM_pct": 1.084,
+        "exceso_ensemble_pct": 2.304
+      },
+      {
+        "replica": "20260924_175952_s4",
+        "exceso_BiLSTM_pct": 1.076,
+        "exceso_ensemble_pct": 2.314
+      },
+      {
+        "replica": "20260924_180111_s4",
+        "exceso_BiLSTM_pct": 0.973,
+        "exceso_ensemble_pct": 2.177
+      },
+      {
+        "replica": "20260924_180226_s4",
+        "exceso_BiLSTM_pct": 1.053,
+        "exceso_ensemble_pct": 2.269
+      },
+      {
+        "replica": "20260924_180343_s4",
+        "exceso_BiLSTM_pct": 1.105,
+        "exceso_ensemble_pct": 2.302
+      },
+      {
+        "replica": "20260924_223550_s4",
+        "exceso_BiLSTM_pct": 1.075,
+        "exceso_ensemble_pct": 2.29
+      },
+      {
+        "replica": "20260924_223711_s4",
+        "exceso_BiLSTM_pct": 1.105,
+        "exceso_ensemble_pct": 2.285
+      },
+      {
+        "replica": "20260924_223838_s4",
+        "exceso_BiLSTM_pct": 1.35,
+        "exceso_ensemble_pct": 2.487
+      },
+      {
+        "replica": "20260924_224006_s4",
+        "exceso_BiLSTM_pct": 0.995,
+        "exceso_ensemble_pct": 2.229
+      },
+      {
+        "replica": "20260924_224141_s4",
+        "exceso_BiLSTM_pct": 0.953,
+        "exceso_ensemble_pct": 2.16
+      }
+    ]
+  },
+  "replicas_exceso_menor_2pct": {
+    "N25": "10/10",
+    "N50": "10/10"
+  },
+  "veredicto": "confirmada"
+}

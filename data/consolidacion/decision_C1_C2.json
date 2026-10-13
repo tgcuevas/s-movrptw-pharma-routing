@@ -1,0 +1,239 @@
+{
+  "C1_comparacion_equilibrada": {
+    "veredicto": "confirmada",
+    "detalle": {
+      "N25_oos_modelo": {
+        "E1_ref": {
+          "vss_pct": 9.039,
+          "ic95_pct": [
+            8.972,
+            9.106
+          ],
+          "favorables_pct": 100.0
+        },
+        "E2_ref": {
+          "vss_pct": 5.551,
+          "ic95_pct": [
+            5.481,
+            5.622
+          ],
+          "favorables_pct": 100.0
+        },
+        "replicas_E1_pos": "8/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": 2.498,
+          "ic95_pct": [
+            2.178,
+            2.817
+          ],
+          "favorables_pct": 90.4
+        }
+      },
+      "N25_oos_real": {
+        "E1_ref": {
+          "vss_pct": 8.867,
+          "ic95_pct": [
+            8.805,
+            8.929
+          ],
+          "favorables_pct": 100.0
+        },
+        "E2_ref": {
+          "vss_pct": 5.317,
+          "ic95_pct": [
+            5.248,
+            5.387
+          ],
+          "favorables_pct": 100.0
+        },
+        "replicas_E1_pos": "8/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": 2.26,
+          "ic95_pct": [
+            1.947,
+            2.574
+          ],
+          "favorables_pct": 88.9
+        }
+      },
+      "N50_oos_modelo": {
+        "E1_ref": {
+          "vss_pct": 22.178,
+          "ic95_pct": [
+            22.143,
+            22.213
+          ],
+          "favorables_pct": 100.0
+        },
+        "E2_ref": {
+          "vss_pct": 20.693,
+          "ic95_pct": [
+            20.659,
+            20.727
+          ],
+          "favorables_pct": 100.0
+        },
+        "replicas_E1_pos": "10/10",
+        "E1_ic_inferior_mayor_10": 1.0,
+        "E3_ref": {
+          "vss_pct": -0.78,
+          "ic95_pct": [
+            -0.976,
+            -0.583
+          ],
+          "favorables_pct": 29.2
+        }
+      },
+      "N50_oos_real": {
+        "E1_ref": {
+          "vss_pct": 22.338,
+          "ic95_pct": [
+            22.295,
+            22.382
+          ],
+          "favorables_pct": 100.0
+        },
+        "E2_ref": {
+          "vss_pct": 20.72,
+          "ic95_pct": [
+            20.671,
+            20.768
+          ],
+          "favorables_pct": 100.0
+        },
+        "replicas_E1_pos": "10/10",
+        "E1_ic_inferior_mayor_10": 1.0,
+        "E3_ref": {
+          "vss_pct": -0.756,
+          "ic95_pct": [
+            -0.961,
+            -0.55
+          ],
+          "favorables_pct": 32.6
+        }
+      }
+    }
+  },
+  "C2_problema_de_recurso": {
+    "veredicto": "refutada",
+    "detalle": {
+      "N25_oos_modelo": {
+        "E1_ref": {
+          "vss_pct": 6.875,
+          "ic95_pct": [
+            6.836,
+            6.915
+          ],
+          "favorables_pct": 100.0
+        },
+        "E2_ref": {
+          "vss_pct": 10.507,
+          "ic95_pct": [
+            10.466,
+            10.549
+          ],
+          "favorables_pct": 100.0
+        },
+        "replicas_E1_pos": "4/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": -2.04,
+          "ic95_pct": [
+            -2.313,
+            -1.767
+          ],
+          "favorables_pct": 15.8
+        }
+      },
+      "N25_oos_real": {
+        "E1_ref": {
+          "vss_pct": 6.892,
+          "ic95_pct": [
+            6.845,
+            6.938
+          ],
+          "favorables_pct": 99.9
+        },
+        "E2_ref": {
+          "vss_pct": 10.599,
+          "ic95_pct": [
+            10.533,
+            10.665
+          ],
+          "favorables_pct": 99.9
+        },
+        "replicas_E1_pos": "4/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": -1.821,
+          "ic95_pct": [
+            -2.087,
+            -1.556
+          ],
+          "favorables_pct": 17.8
+        }
+      },
+      "N50_oos_modelo": {
+        "E1_ref": {
+          "vss_pct": -0.689,
+          "ic95_pct": [
+            -0.729,
+            -0.649
+          ],
+          "favorables_pct": 14.3
+        },
+        "E2_ref": {
+          "vss_pct": -4.532,
+          "ic95_pct": [
+            -4.586,
+            -4.478
+          ],
+          "favorables_pct": 0.0
+        },
+        "replicas_E1_pos": "4/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": 0.517,
+          "ic95_pct": [
+            0.321,
+            0.713
+          ],
+          "favorables_pct": 68.5
+        }
+      },
+      "N50_oos_real": {
+        "E1_ref": {
+          "vss_pct": -0.55,
+          "ic95_pct": [
+            -0.601,
+            -0.5
+          ],
+          "favorables_pct": 23.1
+        },
+        "E2_ref": {
+          "vss_pct": -4.684,
+          "ic95_pct": [
+            -4.752,
+            -4.616
+          ],
+          "favorables_pct": 0.0
+        },
+        "replicas_E1_pos": "4/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": 0.363,
+          "ic95_pct": [
+            0.156,
+            0.571
+          ],
+          "favorables_pct": 61.8
+        }
+      }
+    }
+  },
+  "excluidas": [],
+  "fecha": "2026-10-04T09:56:04",
+  "protocolo": "protocolo_consolidacion.md v1.0 (enmienda 1.1)"
+}

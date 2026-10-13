@@ -1,0 +1,212 @@
+{
+  "C4_recurso_simulacion": {
+    "veredicto": "no concluyente",
+    "detalle": {
+      "N25_oos_modelo": {
+        "E1_ref": {
+          "vss_pct": 3.158,
+          "ic95_pct": [
+            3.093,
+            3.223
+          ],
+          "favorables_pct": 99.5
+        },
+        "E2_ref": {
+          "vss_pct": 5.476,
+          "ic95_pct": [
+            5.423,
+            5.528
+          ],
+          "favorables_pct": 99.9
+        },
+        "replicas_E1_pos": "6/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": 0.342,
+          "ic95_pct": [
+            0.03,
+            0.654
+          ],
+          "favorables_pct": 34.9
+        }
+      },
+      "N25_oos_real": {
+        "E1_ref": {
+          "vss_pct": 3.224,
+          "ic95_pct": [
+            3.158,
+            3.29
+          ],
+          "favorables_pct": 99.4
+        },
+        "E2_ref": {
+          "vss_pct": 5.603,
+          "ic95_pct": [
+            5.532,
+            5.673
+          ],
+          "favorables_pct": 99.9
+        },
+        "replicas_E1_pos": "6/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": 0.498,
+          "ic95_pct": [
+            0.184,
+            0.813
+          ],
+          "favorables_pct": 36.2
+        }
+      },
+      "N50_oos_modelo": {
+        "E1_ref": {
+          "vss_pct": 0.606,
+          "ic95_pct": [
+            0.564,
+            0.648
+          ],
+          "favorables_pct": 88.2
+        },
+        "E2_ref": {
+          "vss_pct": -0.635,
+          "ic95_pct": [
+            -0.666,
+            -0.604
+          ],
+          "favorables_pct": 9.7
+        },
+        "replicas_E1_pos": "7/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": -1.598,
+          "ic95_pct": [
+            -1.81,
+            -1.386
+          ],
+          "favorables_pct": 18.7
+        }
+      },
+      "N50_oos_real": {
+        "E1_ref": {
+          "vss_pct": 0.707,
+          "ic95_pct": [
+            0.657,
+            0.757
+          ],
+          "favorables_pct": 87.8
+        },
+        "E2_ref": {
+          "vss_pct": -0.613,
+          "ic95_pct": [
+            -0.662,
+            -0.564
+          ],
+          "favorables_pct": 16.3
+        },
+        "replicas_E1_pos": "7/10",
+        "E1_ic_inferior_mayor_10": 0.0,
+        "E3_ref": {
+          "vss_pct": -1.817,
+          "ic95_pct": [
+            -2.037,
+            -1.597
+          ],
+          "favorables_pct": 22.6
+        }
+      }
+    }
+  },
+  "C5_mecanismo_desvios": {
+    "veredicto": "confirmada",
+    "detalle": {
+      "N25_oos_modelo": {
+        "E1_ref": {
+          "delta": 0.377,
+          "ic95": [
+            0.3458,
+            0.4082
+          ],
+          "desvios_det": 0.419,
+          "desvios_saa": 0.042
+        },
+        "E2_ref": {
+          "delta": 0.401,
+          "ic95": [
+            0.3705,
+            0.4315
+          ],
+          "desvios_det": 0.419,
+          "desvios_saa": 0.018
+        },
+        "replicas_delta_E1_pos": "9/10"
+      },
+      "N25_oos_real": {
+        "E1_ref": {
+          "delta": 0.289,
+          "ic95": [
+            0.2585,
+            0.3195
+          ],
+          "desvios_det": 0.365,
+          "desvios_saa": 0.076
+        },
+        "E2_ref": {
+          "delta": 0.316,
+          "ic95": [
+            0.286,
+            0.346
+          ],
+          "desvios_det": 0.365,
+          "desvios_saa": 0.049
+        },
+        "replicas_delta_E1_pos": "9/10"
+      },
+      "N50_oos_modelo": {
+        "E1_ref": {
+          "delta": 0.364,
+          "ic95": [
+            0.3209,
+            0.4071
+          ],
+          "desvios_det": 0.837,
+          "desvios_saa": 0.473
+        },
+        "E2_ref": {
+          "delta": 0.557,
+          "ic95": [
+            0.5125,
+            0.6015
+          ],
+          "desvios_det": 0.833,
+          "desvios_saa": 0.276
+        },
+        "replicas_delta_E1_pos": "10/10"
+      },
+      "N50_oos_real": {
+        "E1_ref": {
+          "delta": 0.505,
+          "ic95": [
+            0.4614,
+            0.5486
+          ],
+          "desvios_det": 1.164,
+          "desvios_saa": 0.659
+        },
+        "E2_ref": {
+          "delta": 0.655,
+          "ic95": [
+            0.6108,
+            0.6992
+          ],
+          "desvios_det": 1.141,
+          "desvios_saa": 0.486
+        },
+        "replicas_delta_E1_pos": "10/10"
+      }
+    }
+  },
+  "C7_prediccion_replicas": "confirmada",
+  "excluidas": [],
+  "fecha": "2026-10-04T10:37:12",
+  "protocolo": "protocolo_consolidacion.md (enmienda 1.2)"
+}

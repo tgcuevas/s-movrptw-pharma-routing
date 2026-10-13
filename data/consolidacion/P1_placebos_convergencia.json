@@ -1,0 +1,347 @@
+{
+  "P1a": {
+    "N25": {
+      "W3": true,
+      "VSS_sin_incertidumbre_pct": [
+        3.39,
+        15.1,
+        3.74
+      ],
+      "VSS_publicado_pct": [
+        6.31,
+        16.72,
+        7.72
+      ],
+      "parte_atribuible_a_la_incertidumbre_puntos": [
+        2.92,
+        1.62,
+        3.98
+      ]
+    },
+    "N50": {
+      "W3": true,
+      "VSS_sin_incertidumbre_pct": [
+        4.55,
+        15.36,
+        4.83
+      ],
+      "VSS_publicado_pct": [
+        7.19,
+        14.88,
+        10.05
+      ],
+      "parte_atribuible_a_la_incertidumbre_puntos": [
+        2.64,
+        -0.48,
+        5.22
+      ]
+    }
+  },
+  "P1b": [
+    {
+      "K": 3,
+      "vsshv_sin_incertidumbre_media": 10.7,
+      "min": 6.858,
+      "max": 14.053,
+      "vsshv_publicado_con_incertidumbre": 5.527
+    },
+    {
+      "K": 5,
+      "vsshv_sin_incertidumbre_media": 12.211,
+      "min": 10.832,
+      "max": 14.63,
+      "vsshv_publicado_con_incertidumbre": 8.443
+    },
+    {
+      "K": 8,
+      "vsshv_sin_incertidumbre_media": 13.748,
+      "min": 11.757,
+      "max": 15.73,
+      "vsshv_publicado_con_incertidumbre": 8.846
+    },
+    {
+      "K": 10,
+      "vsshv_sin_incertidumbre_media": 14.51,
+      "min": 12.288,
+      "max": 16.129,
+      "vsshv_publicado_con_incertidumbre": 10.265
+    },
+    {
+      "K": 15,
+      "vsshv_sin_incertidumbre_media": 16.856,
+      "min": 15.477,
+      "max": 18.058,
+      "vsshv_publicado_con_incertidumbre": 11.127
+    },
+    {
+      "K": 20,
+      "vsshv_sin_incertidumbre_media": 17.178,
+      "min": 15.861,
+      "max": 18.629,
+      "vsshv_publicado_con_incertidumbre": 12.145
+    },
+    {
+      "K": 25,
+      "vsshv_sin_incertidumbre_media": 17.968,
+      "min": 17.248,
+      "max": 19.414,
+      "vsshv_publicado_con_incertidumbre": 10.555
+    },
+    {
+      "K": 30,
+      "vsshv_sin_incertidumbre_media": 18.174,
+      "min": 17.248,
+      "max": 19.569,
+      "vsshv_publicado_con_incertidumbre": 9.955
+    }
+  ],
+  "P1c": {
+    "EEV_f1": 17440.96,
+    "RP_f1": 17847.87,
+    "WS_f1": 17780.1,
+    "VSS_f1_pct_sin_incertidumbre": -2.33,
+    "EVPI_f1_pct_sin_incertidumbre": 0.38
+  },
+  "P1d": {
+    "metricas": {
+      "hv": {
+        "S1": {
+          "pop_size": 0.1217,
+          "n_gen": 0.4917,
+          "p_cross": 0.1367,
+          "p_mut": 0.1411,
+          "k_saa": -0.0168,
+          "sigma_demand": -0.1101,
+          "alpha_urgente": 0.1111
+        },
+        "ST": {
+          "pop_size": 0.5223,
+          "n_gen": 0.9298,
+          "p_cross": 0.3298,
+          "p_mut": 0.5234,
+          "k_saa": 0.3036,
+          "sigma_demand": 0.3465,
+          "alpha_urgente": 0.6056
+        },
+        "S1_conf": {
+          "pop_size": 0.363,
+          "n_gen": 0.4711,
+          "p_cross": 0.4439,
+          "p_mut": 0.441,
+          "k_saa": 0.2998,
+          "sigma_demand": 0.4039,
+          "alpha_urgente": 0.4056
+        },
+        "ST_conf": {
+          "pop_size": 0.2351,
+          "n_gen": 0.5573,
+          "p_cross": 0.1856,
+          "p_mut": 0.2229,
+          "k_saa": 0.1625,
+          "sigma_demand": 0.1608,
+          "alpha_urgente": 0.263
+        }
+      },
+      "igd": {
+        "S1": {
+          "pop_size": 0.0595,
+          "n_gen": -0.2972,
+          "p_cross": -0.1418,
+          "p_mut": -0.2593,
+          "k_saa": -0.4364,
+          "sigma_demand": -0.501,
+          "alpha_urgente": -0.2616
+        },
+        "ST": {
+          "pop_size": 1.0014,
+          "n_gen": 0.6582,
+          "p_cross": 1.3353,
+          "p_mut": 0.6,
+          "k_saa": 0.8113,
+          "sigma_demand": 1.4448,
+          "alpha_urgente": 1.2094
+        },
+        "S1_conf": {
+          "pop_size": 0.4503,
+          "n_gen": 0.4832,
+          "p_cross": 0.5633,
+          "p_mut": 0.3371,
+          "k_saa": 0.4776,
+          "sigma_demand": 0.366,
+          "alpha_urgente": 0.6109
+        },
+        "ST_conf": {
+          "pop_size": 0.7494,
+          "n_gen": 0.2484,
+          "p_cross": 0.7282,
+          "p_mut": 0.4247,
+          "k_saa": 0.5525,
+          "sigma_demand": 1.3678,
+          "alpha_urgente": 0.5693
+        }
+      },
+      "vss_pct": {
+        "S1": {
+          "pop_size": -0.0937,
+          "n_gen": -0.1178,
+          "p_cross": 0.0141,
+          "p_mut": 0.0249,
+          "k_saa": -0.0967,
+          "sigma_demand": -0.0218,
+          "alpha_urgente": -0.1212
+        },
+        "ST": {
+          "pop_size": 1.0721,
+          "n_gen": 1.3309,
+          "p_cross": 0.7506,
+          "p_mut": 1.6284,
+          "k_saa": 1.1764,
+          "sigma_demand": 0.685,
+          "alpha_urgente": 0.7957
+        },
+        "S1_conf": {
+          "pop_size": 0.4155,
+          "n_gen": 0.4504,
+          "p_cross": 0.3207,
+          "p_mut": 0.3993,
+          "k_saa": 0.4375,
+          "sigma_demand": 0.3093,
+          "alpha_urgente": 0.4283
+        },
+        "ST_conf": {
+          "pop_size": 0.6293,
+          "n_gen": 0.5319,
+          "p_cross": 0.407,
+          "p_mut": 1.3201,
+          "k_saa": 0.6267,
+          "sigma_demand": 0.46,
+          "alpha_urgente": 1.3093
+        }
+      },
+      "vss_hv": {
+        "S1": {
+          "pop_size": -0.2605,
+          "n_gen": -0.3199,
+          "p_cross": -0.2743,
+          "p_mut": -0.4892,
+          "k_saa": -0.1719,
+          "sigma_demand": -0.0616,
+          "alpha_urgente": -0.1122
+        },
+        "ST": {
+          "pop_size": 0.8022,
+          "n_gen": 0.8739,
+          "p_cross": 1.0251,
+          "p_mut": 0.8254,
+          "k_saa": 0.7042,
+          "sigma_demand": 1.0795,
+          "alpha_urgente": 0.8637
+        },
+        "S1_conf": {
+          "pop_size": 0.4156,
+          "n_gen": 0.4078,
+          "p_cross": 0.5323,
+          "p_mut": 0.3762,
+          "k_saa": 0.3833,
+          "sigma_demand": 0.5603,
+          "alpha_urgente": 0.448
+        },
+        "ST_conf": {
+          "pop_size": 0.4916,
+          "n_gen": 0.5746,
+          "p_cross": 0.4563,
+          "p_mut": 0.4182,
+          "k_saa": 0.3743,
+          "sigma_demand": 0.6864,
+          "alpha_urgente": 0.4389
+        }
+      }
+    },
+    "parametros_sin_efecto_en_el_modelo": [
+      "p_cross",
+      "p_mut",
+      "k_saa"
+    ],
+    "nota": "Sus índices deberían ser ≈0; un valor distinto de cero mide ruido de la estimación."
+  },
+  "P1e": {
+    "N25": {
+      "hv_por_generaciones_y_semilla": {
+        "200": [
+          193870566184064.03,
+          164421670239628.47,
+          208409977473557.75,
+          187639934072398.84,
+          193052511401318.78
+        ],
+        "400": [
+          260863063781901.25,
+          223400771685976.12,
+          237391982130363.9,
+          220421047032155.06,
+          274725555526735.6
+        ],
+        "800": [
+          287238816955134.1,
+          260358519385560.97,
+          295750084540576.6,
+          250135212763174.44,
+          295947823421153.44
+        ],
+        "1600": [
+          303255178202802.06,
+          291663256519758.0,
+          322285578896325.9,
+          289656699681638.25,
+          313282204492698.8
+        ]
+      },
+      "aumento_pct_respecto_a_200": {
+        "200": 0.0,
+        "400": 28.44,
+        "800": 46.66,
+        "1600": 60.46
+      },
+      "convergencia_practica_800_a_1600": false
+    },
+    "N50": {
+      "hv_por_generaciones_y_semilla": {
+        "200": [
+          1405731647957144.0,
+          1349794626208288.8,
+          1661373864581702.0,
+          1599769641548932.5,
+          1890184523194839.2
+        ],
+        "400": [
+          2046401024657192.5,
+          1904694225293642.0,
+          2176842422403460.2,
+          2124727449442730.5,
+          2436167146623823.5
+        ],
+        "800": [
+          2606786345706611.0,
+          2711075951153180.0,
+          2646286760227238.5,
+          2656230708654172.5,
+          3075679535822477.0
+        ],
+        "1600": [
+          3235872514239505.0,
+          3356066269418509.0,
+          3164629396120663.5,
+          3163744314975512.0,
+          3648694330467300.0
+        ]
+      },
+      "aumento_pct_respecto_a_200": {
+        "200": 0.0,
+        "400": 35.18,
+        "800": 73.22,
+        "1600": 109.55
+      },
+      "convergencia_practica_800_a_1600": false
+    }
+  }
+}

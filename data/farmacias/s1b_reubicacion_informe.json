@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-09-24T11:00:14",
+  "D1": {
+    "lat": 37.3803,
+    "lon": -5.9248,
+    "node_osm": 745757659,
+    "snap_dist_m": 1.0
+  },
+  "componente_fuertemente_conexa_nodos": 34698,
+  "matriz": {
+    "n": 52,
+    "media_s": 456.55059713883816,
+    "min_s": 0.0,
+    "max_s": 1619.8071402607513,
+    "media_min": 7.609176618980636
+  },
+  "D1_a_farmacias_s": {
+    "min": 389.98827461037166,
+    "media": 711.3640827980859,
+    "max": 1193.7219742569487
+  },
+  "farmacias_a_D1_s": {
+    "min": 375.1889186738293,
+    "media": 683.2096024744837,
+    "max": 1126.5827583528503
+  },
+  "farmacias_a_mas_de_15km_del_D1_por_tiempo_gt_1800s": 0,
+  "localizaciones_reproyectadas": [
+    "D1",
+    "F01",
+    "F03"
+  ]
+}

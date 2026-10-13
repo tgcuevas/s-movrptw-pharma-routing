@@ -1,0 +1,109 @@
+{
+  "W4": true,
+  "W5": {
+    "R1-100": true
+  },
+  "decision_C8": {
+    "veredicto": "refutada",
+    "condiciones": {
+      "R1-100|40000": {
+        "p": 1.5719925868631079e-06,
+        "hv_mediano": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0,
+          "MOEA/D": 0.28809329680671414
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "MOEA/D",
+        "rango_medio": {
+          "NSGA-II": 2.5166666666666666,
+          "NSGA-III": 2.4833333333333334,
+          "MOEA/D": 1.0
+        },
+        "replicas_frente_NSGA-II_dominado_entero": 30,
+        "replicas_frente_MOEA/D_dominado_entero": 0,
+        "soluciones_mediana": {
+          "NSGA-II": 19.0,
+          "NSGA-III": 15.0,
+          "MOEA/D": 2.5
+        },
+        "p_holm": 3.1439851737262158e-06,
+        "significativo": true,
+        "decide": false
+      },
+      "R1-100|80000": {
+        "p": 1.5972912164133009e-06,
+        "hv_mediano": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0,
+          "MOEA/D": 0.2057447143907259
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "MOEA/D",
+        "rango_medio": {
+          "NSGA-II": 2.5,
+          "NSGA-III": 2.5,
+          "MOEA/D": 1.0
+        },
+        "replicas_frente_NSGA-II_dominado_entero": 29,
+        "replicas_frente_MOEA/D_dominado_entero": 0,
+        "soluciones_mediana": {
+          "NSGA-II": 27.0,
+          "NSGA-III": 17.0,
+          "MOEA/D": 3.0
+        },
+        "p_holm": 3.1945824328266018e-06,
+        "significativo": true,
+        "decide": true
+      },
+      "Sevilla-50|40000": {
+        "p": 0.0002004178728305591,
+        "hv_mediano": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0,
+          "MOEA/D": 0.13147643526260433
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "MOEA/D",
+        "rango_medio": {
+          "NSGA-II": 2.3333333333333335,
+          "NSGA-III": 2.433333333333333,
+          "MOEA/D": 1.2333333333333334
+        },
+        "replicas_frente_NSGA-II_dominado_entero": 16,
+        "replicas_frente_MOEA/D_dominado_entero": 0,
+        "soluciones_mediana": {
+          "NSGA-II": 24.0,
+          "NSGA-III": 19.0,
+          "MOEA/D": 2.0
+        },
+        "p_holm": 0.0002004178728305591,
+        "significativo": true,
+        "decide": true
+      },
+      "Sevilla-50|80000": {
+        "p": 0.7456546742469072,
+        "hv_mediano": {
+          "NSGA-II": 0.21405693012817328,
+          "NSGA-III": 0.18645651414071013,
+          "MOEA/D": 0.09558240594376399
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "NSGA-II",
+        "rango_medio": {
+          "NSGA-II": 1.8666666666666667,
+          "NSGA-III": 2.033333333333333,
+          "MOEA/D": 2.1
+        },
+        "replicas_frente_NSGA-II_dominado_entero": 8,
+        "replicas_frente_MOEA/D_dominado_entero": 0,
+        "soluciones_mediana": {
+          "NSGA-II": 24.5,
+          "NSGA-III": 19.0,
+          "MOEA/D": 2.0
+        },
+        "p_holm": 0.7456546742469072,
+        "significativo": false,
+        "decide": false
+      }
+    }
+  },
+  "fecha": "2026-10-04T12:33:11",
+  "protocolo": "protocolo_consolidacion.md (enmienda 1.3)"
+}

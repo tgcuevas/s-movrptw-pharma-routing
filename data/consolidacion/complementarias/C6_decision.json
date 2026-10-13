@@ -1,0 +1,106 @@
+{
+  "W4": true,
+  "decision_C6": {
+    "veredicto": "refutada",
+    "instancias": [
+      {
+        "instancia": "Sevilla-25",
+        "hv_mediano": {
+          "NSGA-II": 0.49494754307806665,
+          "NSGA-III": 0.43018452439023463,
+          "MOEA/D": 0.0671566479394971
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "NSGA-II",
+        "rango_medio": {
+          "NSGA-II": 1.6,
+          "NSGA-III": 1.6666666666666667,
+          "MOEA/D": 2.7333333333333334
+        },
+        "p_holm": 5.791901648260343e-06,
+        "significativo": true
+      },
+      {
+        "instancia": "Sevilla-50",
+        "hv_mediano": {
+          "NSGA-II": 0.0,
+          "NSGA-III": 0.0,
+          "MOEA/D": 0.17160896009767423
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "MOEA/D",
+        "rango_medio": {
+          "NSGA-II": 2.4166666666666665,
+          "NSGA-III": 2.55,
+          "MOEA/D": 1.0333333333333334
+        },
+        "p_holm": 5.791901648260343e-06,
+        "significativo": true
+      },
+      {
+        "instancia": "C101-25-s1001",
+        "hv_mediano": {
+          "NSGA-II": 0.6895532112625178,
+          "NSGA-III": 0.48171734905360786,
+          "MOEA/D": 0.01100000000000002
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "NSGA-II",
+        "rango_medio": {
+          "NSGA-II": 1.5333333333333334,
+          "NSGA-III": 1.5833333333333333,
+          "MOEA/D": 2.8833333333333333
+        },
+        "p_holm": 5.791901648260343e-06,
+        "significativo": true
+      },
+      {
+        "instancia": "C101-25-s1002",
+        "hv_mediano": {
+          "NSGA-II": 0.6521397688616404,
+          "NSGA-III": 0.42545413062696075,
+          "MOEA/D": 0.030657617695463296
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "NSGA-II",
+        "rango_medio": {
+          "NSGA-II": 1.4666666666666666,
+          "NSGA-III": 1.8666666666666667,
+          "MOEA/D": 2.6666666666666665
+        },
+        "p_holm": 2.7641654014587402e-06,
+        "significativo": true
+      },
+      {
+        "instancia": "R101-25-s1003",
+        "hv_mediano": {
+          "NSGA-II": 0.6921780500545728,
+          "NSGA-III": 0.5334372314961209,
+          "MOEA/D": 0.023118599422632898
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "NSGA-II",
+        "rango_medio": {
+          "NSGA-II": 1.4833333333333334,
+          "NSGA-III": 1.85,
+          "MOEA/D": 2.6666666666666665
+        },
+        "p_holm": 1.2759119272232056e-06,
+        "significativo": true
+      },
+      {
+        "instancia": "R101-25-s1004",
+        "hv_mediano": {
+          "NSGA-II": 0.6695484410841669,
+          "NSGA-III": 0.43911226142658877,
+          "MOEA/D": 0.032068822869100524
+        },
+        "mejor_NSGA-II_vs_MOEA/D": "NSGA-II",
+        "rango_medio": {
+          "NSGA-II": 1.3333333333333333,
+          "NSGA-III": 1.8166666666666667,
+          "MOEA/D": 2.85
+        },
+        "p_holm": 2.2351741790771484e-08,
+        "significativo": true
+      }
+    ]
+  },
+  "fecha": "2026-10-04T10:38:18",
+  "protocolo": "protocolo_consolidacion.md (enmienda 1.2)"
+}

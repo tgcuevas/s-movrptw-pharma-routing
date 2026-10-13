@@ -1,0 +1,70 @@
+{
+  "25": {
+    "W0_V0_V5": {
+      "V0": true,
+      "V1": true,
+      "V2": true,
+      "V3": true,
+      "V4": true,
+      "V4_detalle": {
+        "desvios_formula": true,
+        "desvios_no_decrecen": true,
+        "identidad_f1": true
+      },
+      "V5": true,
+      "V5_detalle": {
+        "vss_f1_simulado_pct": 6.12,
+        "asimetria_max_matriz_s": 0.0
+      }
+    },
+    "W1": true,
+    "W2": true,
+    "W2_detalle": {
+      "calculado": [
+        18037.0602,
+        271027618.8958,
+        695.118
+      ],
+      "publicado": [
+        18037.06,
+        271027618.9,
+        695.118
+      ],
+      "diferencia_f3_informativa": 0.0
+    }
+  },
+  "50": {
+    "W0_V0_V5": {
+      "V0": true,
+      "V1": true,
+      "V2": true,
+      "V3": true,
+      "V4": true,
+      "V4_detalle": {
+        "desvios_formula": true,
+        "desvios_no_decrecen": true,
+        "identidad_f1": true
+      },
+      "V5": null,
+      "V5_detalle": {
+        "vss_f1_simulado_pct": 7.036,
+        "asimetria_max_matriz_s": 0.0
+      }
+    },
+    "W1": true,
+    "W2": true,
+    "W2_detalle": {
+      "calculado": [
+        36888.305,
+        821977967.1839,
+        1574.8732
+      ],
+      "publicado": [
+        36888.3,
+        821977967.18,
+        1574.8732
+      ],
+      "diferencia_f3_informativa": 0.0
+    }
+  }
+}

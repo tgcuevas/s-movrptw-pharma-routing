@@ -1,0 +1,26 @@
+{
+  "N25": {
+    "fecha_dia_previsto": "2024-12-18",
+    "skill_BiLSTM_mismo_procedimiento_pct": 21.66,
+    "skill_maximo_posible_pct": 22.33,
+    "skill_publicados_forecast_eval_verdad": {
+      "skill_frente_a_naive_realizaciones_pct.BiLSTM": 21.8,
+      "skill_frente_a_naive_realizaciones_pct.XGBoost": 18.9,
+      "skill_frente_a_naive_realizaciones_pct.ensemble": 21.7
+    },
+    "CV_demanda_total_modelo_pct": 11.9,
+    "CV_demanda_total_muestra_20_escenarios_pct": 9.86
+  },
+  "N50": {
+    "fecha_dia_previsto": "2024-12-18",
+    "skill_BiLSTM_mismo_procedimiento_pct": 21.15,
+    "skill_maximo_posible_pct": 21.88,
+    "skill_publicados_forecast_eval_verdad": {
+      "skill_frente_a_naive_realizaciones_pct.BiLSTM": 21.1,
+      "skill_frente_a_naive_realizaciones_pct.XGBoost": 16.9,
+      "skill_frente_a_naive_realizaciones_pct.ensemble": 20.1
+    },
+    "CV_demanda_total_modelo_pct": 8.16,
+    "CV_demanda_total_muestra_20_escenarios_pct": 8.43
+  }
+}
